@@ -1,2 +1,2 @@
 # lt-gpx
-gpx for the long trail
+gpx for the long path
