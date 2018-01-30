@@ -1,2 +1,2 @@
-# lt-gpx
+# lp-gpx
 gpx for the long path
