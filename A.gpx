@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="40.85138810" minlon="-74.59866855" maxlat="41.41480230" maxlon="-73.90394550"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-25T19:25:46.199Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:23:56.626Z</time>
 </extensions>
 </metadata>
 <wpt lat="40.85151671" lon="-73.96256947">
@@ -34,14 +34,14 @@
 </extensions>
 </wpt>
 <trk>
-<name>LP</name>
+<name>IGNORE</name>
 <desc>bad,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-25T19:25:46.199Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T02:56:49.019Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">40e0d0</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Long Path</label_text>
+<label_text>IGNORE</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
 <color>cb0017</color>
@@ -4551,13 +4551,13 @@
 <trkpt lat="41.22815900" lon="-74.09959640">
 <ele>340.000</ele>
 </trkpt>
-<trkpt lat="41.22857425" lon="-74.09955978">
+<trkpt lat="41.22857830" lon="-74.09951150">
 <ele>340.000</ele>
 </trkpt>
-<trkpt lat="41.22878425" lon="-74.09959978">
+<trkpt lat="41.22878830" lon="-74.09955150">
 <ele>340.000</ele>
 </trkpt>
-<trkpt lat="41.22890675" lon="-74.09972879">
+<trkpt lat="41.22889257" lon="-74.09970197">
 <ele>340.000</ele>
 </trkpt>
 <trkpt lat="41.22911830" lon="-74.10009150">
@@ -4923,16 +4923,16 @@
 <trkpt lat="41.25088830" lon="-74.11929150">
 <ele>375.000</ele>
 </trkpt>
-<trkpt lat="41.25162330" lon="-74.11994440">
+<trkpt lat="41.25142695" lon="-74.11971641">
 <ele>375.000</ele>
 </trkpt>
-<trkpt lat="41.25177940" lon="-74.12016740">
+<trkpt lat="41.25180774" lon="-74.12004670">
 <ele>377.000</ele>
 </trkpt>
-<trkpt lat="41.25215770" lon="-74.12025180">
+<trkpt lat="41.25221438" lon="-74.12018743">
 <ele>378.000</ele>
 </trkpt>
-<trkpt lat="41.25252140" lon="-74.12099740">
+<trkpt lat="41.25250925" lon="-74.12069699">
 <ele>378.000</ele>
 </trkpt>
 <trkpt lat="41.25276330" lon="-74.12115140">
@@ -5013,22 +5013,22 @@
 <trkpt lat="41.25370640" lon="-74.12756540">
 <ele>383.000</ele>
 </trkpt>
-<trkpt lat="41.25387740" lon="-74.12792740">
+<trkpt lat="41.25375494" lon="-74.12780402">
 <ele>381.000</ele>
 </trkpt>
-<trkpt lat="41.25387940" lon="-74.12804340">
+<trkpt lat="41.25375694" lon="-74.12792002">
 <ele>381.000</ele>
 </trkpt>
-<trkpt lat="41.25376740" lon="-74.12809540">
+<trkpt lat="41.25382003" lon="-74.12806590">
 <ele>385.000</ele>
 </trkpt>
-<trkpt lat="41.25382730" lon="-74.12832340">
+<trkpt lat="41.25395482" lon="-74.12818661">
 <ele>385.000</ele>
 </trkpt>
 <trkpt lat="41.25410040" lon="-74.12832640">
 <ele>383.000</ele>
 </trkpt>
-<trkpt lat="41.25430540" lon="-74.12847740">
+<trkpt lat="41.25429326" lon="-74.12836207">
 <ele>384.000</ele>
 </trkpt>
 <trkpt lat="41.25460740" lon="-74.12837340">
@@ -5799,10 +5799,10 @@
 <trkpt lat="41.31957840" lon="-74.04860150">
 <ele>278.000</ele>
 </trkpt>
-<trkpt lat="41.31961910" lon="-74.04811790">
+<trkpt lat="41.31964337" lon="-74.04825737">
 <ele>278.000</ele>
 </trkpt>
-<trkpt lat="41.31953450" lon="-74.04797587">
+<trkpt lat="41.31954259" lon="-74.04797587">
 <ele>277.000</ele>
 </trkpt>
 <trkpt lat="41.32035840" lon="-74.04739140">
