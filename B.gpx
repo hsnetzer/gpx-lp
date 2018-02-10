@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="41.31853568" minlon="-74.66356515" maxlat="42.19169708" maxlon="-74.08253637"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:44:03.017Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-10T03:48:15.190Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.17520802" lon="-74.25764921">
 </active_point>
 </extensions>
@@ -100,6 +100,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-10T03:47:39.350Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WestKill</label_text>
 </label>
@@ -328,7 +329,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:22:09.574Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:22:09.573Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Wittenberg</label_text>
 </label>
@@ -773,7 +774,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </extensions>
 </wpt>
 <wpt lat="42.13147650" lon="-74.15170195">
-<time>2018-02-06T17:10:36.995Z</time>
+<time>2018-02-06T17:10:36.994Z</time>
 <name>DP643</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
@@ -796,12 +797,13 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </wpt>
 <wpt lat="42.17510028" lon="-74.25767603">
 <time>2018-02-06T17:12:48.898Z</time>
-<name>WestKill</name>
+<name>WestKillBridge</name>
 <sym>Bridge</sym>
 <type>Bridge</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-10T03:48:15.190Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>WestKill</label_text>
+<label_text>WestKillBridge</label_text>
 </label>
 </extensions>
 </wpt>
@@ -845,7 +847,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <desc>bad,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:31:46.370Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:31:46.369Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Long Path</label_text>
