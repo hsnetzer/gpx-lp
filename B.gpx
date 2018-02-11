@@ -3,8 +3,8 @@
 <metadata>
 <bounds minlat="41.31853568" minlon="-74.66356515" maxlat="42.19169708" maxlon="-74.08253637"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-10T03:48:15.190Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.17520802" lon="-74.25764921">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:20:36.717Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.13138965" lon="-74.15174352">
 </active_point>
 </extensions>
 </metadata>
@@ -773,12 +773,13 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </label>
 </extensions>
 </wpt>
-<wpt lat="42.13147650" lon="-74.15170195">
+<wpt lat="42.13139364" lon="-74.15166440">
 <time>2018-02-06T17:10:36.994Z</time>
 <name>DP643</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:20:33.972Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>DP643</label_text>
 </label>
@@ -847,7 +848,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <desc>bad,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:31:46.369Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:20:32.276Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Long Path</label_text>
@@ -14606,7 +14607,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="42.13150760" lon="-74.15234560">
 <ele>1131.000</ele>
 </trkpt>
-<trkpt lat="42.13139820" lon="-74.15174410">
+<trkpt lat="42.13138622" lon="-74.15166900">
 <ele>1140.000</ele>
 </trkpt>
 <trkpt lat="42.13146440" lon="-74.15105310">
@@ -30372,7 +30373,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <desc>bad,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:20:36.676Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:20:36.717Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">009300</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Devils Path</label_text>
@@ -32173,19 +32174,19 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="42.13151000" lon="-74.15112100">
 <ele>1167.800</ele>
 </trkpt>
-<trkpt lat="42.13151900" lon="-74.15131900">
+<trkpt lat="42.13146509" lon="-74.15128681">
 <ele>1166.600</ele>
 </trkpt>
-<trkpt lat="42.13151200" lon="-74.15150300">
+<trkpt lat="42.13145809" lon="-74.15147081">
 <ele>1162.800</ele>
 </trkpt>
-<trkpt lat="42.13146900" lon="-74.15171600">
+<trkpt lat="42.13139812" lon="-74.15166638">
 <ele>1160.200</ele>
 </trkpt>
-<trkpt lat="42.13155000" lon="-74.15188500">
+<trkpt lat="42.13146515" lon="-74.15188768">
 <ele>1158.800</ele>
 </trkpt>
-<trkpt lat="42.13155700" lon="-74.15208500">
+<trkpt lat="42.13147215" lon="-74.15208768">
 <ele>1157.000</ele>
 </trkpt>
 <trkpt lat="42.13149700" lon="-74.15227600">
