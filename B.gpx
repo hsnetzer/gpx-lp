@@ -3,36 +3,36 @@
 <metadata>
 <bounds minlat="41.31853568" minlon="-74.66356515" maxlat="42.19169708" maxlon="-74.08253637"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:20:36.717Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.13138965" lon="-74.15174352">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T18:06:53.427Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.73569850" lon="-74.18536587">
 </active_point>
 </extensions>
 </metadata>
 <wpt lat="41.68691342" lon="-74.32405657">
 <ele>587.000</ele>
 <time>2016-08-18T03:32:44.437Z</time>
-<name>LPSRTNE</name>
+<name>LP~SRT~NE</name>
 <desc>East junction of the Long Path with the Shawangunk Ridge Trail.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-10-08T14:01:35.717Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T17:49:25.948Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LPSRTNE</label_text>
+<label_text>LP~SRT~NE</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="41.77715458" lon="-74.09023232">
 <ele>59.000</ele>
 <time>2016-08-18T03:34:13.950Z</time>
-<name>SRTNE</name>
+<name>SRT-NE</name>
 <desc>Eastern terminus of the Shawangunk Ridge Trail</desc>
 <sym>Trail Head</sym>
 <type>Trail Head</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T17:21:23.059Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T17:48:32.149Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SRTNE</label_text>
+<label_text>SRT-NE</label_text>
 </label>
 </extensions>
 </wpt>
@@ -232,14 +232,14 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <wpt lat="41.40785018" lon="-74.61060761">
 <ele>250.000</ele>
 <time>2016-05-04T21:16:28.081Z</time>
-<name>LPSRTSW</name>
+<name>LP~SRT~SW</name>
 <desc>South junction of the Shawangunk Ridge Trail with the New York Long Path</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-01-05T03:39:42.141Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T17:48:58.164Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LPSRTSW</label_text>
+<label_text>LP~SRT~SW</label_text>
 </label>
 </extensions>
 </wpt>
@@ -259,14 +259,14 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <wpt lat="41.31853568" lon="-74.66356515">
 <ele>487.680</ele>
 <time>2016-05-04T21:04:19.118Z</time>
-<name>SRTSW</name>
+<name>SRT-SW</name>
 <desc>Junction of the AT with the Shawangunk Ridge Trail. West 0.2 miles to the obelisk at the New Jersey high point. West 11.3 miles to the New York Long Path, which after 40 miles coincides with the AT at the latter's milepost 1383.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:20:55.054Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T17:48:42.086Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SRTSW</label_text>
+<label_text>SRT-SW</label_text>
 </label>
 </extensions>
 </wpt>
@@ -735,14 +735,14 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.73876198" lon="-74.18461022">
+<wpt lat="41.73873385" lon="-74.18455121">
 <ele>286.512</ele>
 <time>2017-02-25T15:08:58.743Z</time>
 <name>StairmasterJct</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-05-20T16:37:00.197Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T18:05:12.942Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>StairmasterJct</label_text>
 </label>
@@ -779,7 +779,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:20:33.972Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:20:33.971Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>DP643</label_text>
 </label>
@@ -843,12 +843,80 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </label>
 </extensions>
 </wpt>
+<wpt lat="41.67395645" lon="-74.36036391">
+<time>2018-02-12T17:54:39.869Z</time>
+<name>SRT~SamsPtRd~A</name>
+<sym>Car</sym>
+<type>Road</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T17:57:12.329Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SRT~SamsPtRd~A</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.67054171" lon="-74.36074076">
+<time>2018-02-12T17:55:04.972Z</time>
+<name>SRT~SamsPtRd~B</name>
+<sym>Car</sym>
+<type>Road</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T17:57:19.623Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SRT~SamsPtRd~B</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.67456025" lon="-74.35149183">
+<time>2018-02-12T17:56:02.310Z</time>
+<name>HighPtRd~IceCaveRd</name>
+<sym>Car</sym>
+<type>Road</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HighPtRd~IceCaveRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.67422944" lon="-74.35054099">
+<time>2018-02-12T17:56:30.390Z</time>
+<name>SRT~IceCaveRd~NE</name>
+<sym>Car</sym>
+<type>Road</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SRT~IceCaveRd~NE</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.61983357" lon="-74.42646494">
+<time>2018-02-12T17:59:54.933Z</time>
+<name>HennesseyMemorial</name>
+<sym>Scenic Area</sym>
+<type>Scenic Area</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HennesseyMemorial</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.73747597" lon="-74.18428963">
+<time>2018-02-12T18:06:00.757Z</time>
+<name>Stairmaster</name>
+<sym>Parking Area</sym>
+<type>Parking</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Stairmaster</label_text>
+</label>
+</extensions>
+</wpt>
 <trk>
 <name>LP</name>
 <desc>bad,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:20:32.276Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T18:02:19.610Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Long Path</label_text>
@@ -1860,13 +1928,13 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.56966540" lon="-74.48362060">
 <ele>163.000</ele>
 </trkpt>
-<trkpt lat="41.57396040" lon="-74.48333070">
+<trkpt lat="41.57361397" lon="-74.48339507">
 <ele>167.000</ele>
 </trkpt>
-<trkpt lat="41.57477840" lon="-74.48325770">
+<trkpt lat="41.57368272" lon="-74.48238866">
 <ele>166.000</ele>
 </trkpt>
-<trkpt lat="41.57507440" lon="-74.48315770">
+<trkpt lat="41.57413985" lon="-74.48125870">
 <ele>166.000</ele>
 </trkpt>
 <trkpt lat="41.57208940" lon="-74.47669560">
@@ -2307,16 +2375,16 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.60775230" lon="-74.43568560">
 <ele>273.000</ele>
 </trkpt>
-<trkpt lat="41.60798830" lon="-74.43547010">
+<trkpt lat="41.60789167" lon="-74.43557202">
 <ele>274.000</ele>
 </trkpt>
-<trkpt lat="41.60836690" lon="-74.43541930">
+<trkpt lat="41.60794013" lon="-74.43511353">
 <ele>266.000</ele>
 </trkpt>
-<trkpt lat="41.60865090" lon="-74.43513080">
+<trkpt lat="41.60823621" lon="-74.43486794">
 <ele>265.000</ele>
 </trkpt>
-<trkpt lat="41.60874110" lon="-74.43510040">
+<trkpt lat="41.60854785" lon="-74.43469270">
 <ele>265.000</ele>
 </trkpt>
 <trkpt lat="41.60899830" lon="-74.43515330">
@@ -2331,25 +2399,25 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.60963920" lon="-74.43518250">
 <ele>282.000</ele>
 </trkpt>
-<trkpt lat="41.61006250" lon="-74.43452690">
+<trkpt lat="41.61014302" lon="-74.43460200">
 <ele>300.000</ele>
 </trkpt>
-<trkpt lat="41.61027800" lon="-74.43472130">
+<trkpt lat="41.61024781" lon="-74.43482054">
 <ele>309.000</ele>
 </trkpt>
-<trkpt lat="41.61038910" lon="-74.43471460">
+<trkpt lat="41.61034884" lon="-74.43514644">
 <ele>309.000</ele>
 </trkpt>
-<trkpt lat="41.61045710" lon="-74.43464570">
+<trkpt lat="41.61047924" lon="-74.43509631">
 <ele>309.000</ele>
 </trkpt>
-<trkpt lat="41.61059130" lon="-74.43412050">
+<trkpt lat="41.61060338" lon="-74.43496271">
 <ele>324.000</ele>
 </trkpt>
-<trkpt lat="41.61068130" lon="-74.43415390">
+<trkpt lat="41.61069740" lon="-74.43470107">
 <ele>322.000</ele>
 </trkpt>
-<trkpt lat="41.61086600" lon="-74.43457610">
+<trkpt lat="41.61077944" lon="-74.43449295">
 <ele>330.000</ele>
 </trkpt>
 <trkpt lat="41.61096510" lon="-74.43441410">
@@ -2925,52 +2993,52 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.66394840" lon="-74.40827160">
 <ele>365.000</ele>
 </trkpt>
-<trkpt lat="41.66438210" lon="-74.40805460">
+<trkpt lat="41.66427349" lon="-74.40804924">
 <ele>355.000</ele>
 </trkpt>
-<trkpt lat="41.66449110" lon="-74.40788270">
+<trkpt lat="41.66438249" lon="-74.40787734">
 <ele>353.000</ele>
 </trkpt>
 <trkpt lat="41.66467590" lon="-74.40773910">
 <ele>357.000</ele>
 </trkpt>
-<trkpt lat="41.66455340" lon="-74.40864370">
+<trkpt lat="41.66467408" lon="-74.40810726">
 <ele>347.000</ele>
 </trkpt>
-<trkpt lat="41.66436040" lon="-74.40925360">
+<trkpt lat="41.66457360" lon="-74.40865279">
 <ele>344.000</ele>
 </trkpt>
-<trkpt lat="41.66403640" lon="-74.40972070">
+<trkpt lat="41.66447486" lon="-74.40895359">
 <ele>347.000</ele>
 </trkpt>
-<trkpt lat="41.66367350" lon="-74.41008160">
+<trkpt lat="41.66444986" lon="-74.40908918">
 <ele>349.000</ele>
 </trkpt>
-<trkpt lat="41.66352140" lon="-74.41034360">
+<trkpt lat="41.66438626" lon="-74.40919025">
 <ele>356.000</ele>
 </trkpt>
-<trkpt lat="41.66353750" lon="-74.41059260">
+<trkpt lat="41.66440236" lon="-74.40943925">
 <ele>356.000</ele>
 </trkpt>
-<trkpt lat="41.66364940" lon="-74.41070970">
+<trkpt lat="41.66451426" lon="-74.40955635">
 <ele>356.000</ele>
 </trkpt>
-<trkpt lat="41.66371450" lon="-74.41066670">
+<trkpt lat="41.66457936" lon="-74.40951335">
 <ele>347.000</ele>
 </trkpt>
-<trkpt lat="41.66380140" lon="-74.41035560">
+<trkpt lat="41.66478291" lon="-74.40928272">
 <ele>347.000</ele>
 </trkpt>
-<trkpt lat="41.66398940" lon="-74.41005770">
+<trkpt lat="41.66488241" lon="-74.40914575">
 <ele>341.000</ele>
 </trkpt>
-<trkpt lat="41.66442340" lon="-74.40972270">
+<trkpt lat="41.66497852" lon="-74.40903605">
 <ele>339.000</ele>
 </trkpt>
-<trkpt lat="41.66464340" lon="-74.40941060">
+<trkpt lat="41.66502555" lon="-74.40889562">
 <ele>340.000</ele>
 </trkpt>
-<trkpt lat="41.66514540" lon="-74.40887670">
+<trkpt lat="41.66516149" lon="-74.40869967">
 <ele>325.000</ele>
 </trkpt>
 <trkpt lat="41.66537140" lon="-74.40849360">
@@ -3189,10 +3257,10 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.68035180" lon="-74.37879150">
 <ele>389.000</ele>
 </trkpt>
-<trkpt lat="41.68031950" lon="-74.37780210">
+<trkpt lat="41.68015864" lon="-74.37795230">
 <ele>390.000</ele>
 </trkpt>
-<trkpt lat="41.68016490" lon="-74.37753030">
+<trkpt lat="41.68000404" lon="-74.37768050">
 <ele>395.000</ele>
 </trkpt>
 <trkpt lat="41.67998450" lon="-74.37749820">
@@ -3216,13 +3284,13 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.67874740" lon="-74.37525750">
 <ele>423.000</ele>
 </trkpt>
-<trkpt lat="41.67859600" lon="-74.37474680">
+<trkpt lat="41.67827829" lon="-74.37488627">
 <ele>425.000</ele>
 </trkpt>
-<trkpt lat="41.67851580" lon="-74.37406500">
+<trkpt lat="41.67771548" lon="-74.37468727">
 <ele>428.000</ele>
 </trkpt>
-<trkpt lat="41.67841140" lon="-74.37392940">
+<trkpt lat="41.67749043" lon="-74.37433710">
 <ele>428.000</ele>
 </trkpt>
 <trkpt lat="41.67823150" lon="-74.37396490">
@@ -3243,10 +3311,10 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.67788410" lon="-74.37137470">
 <ele>463.000</ele>
 </trkpt>
-<trkpt lat="41.67816570" lon="-74.37099650">
+<trkpt lat="41.67806114" lon="-74.37100723">
 <ele>464.000</ele>
 </trkpt>
-<trkpt lat="41.67821420" lon="-74.37079100">
+<trkpt lat="41.67810964" lon="-74.37080173">
 <ele>468.000</ele>
 </trkpt>
 <trkpt lat="41.67834400" lon="-74.37065310">
@@ -3258,22 +3326,22 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.67892810" lon="-74.37040860">
 <ele>470.000</ele>
 </trkpt>
-<trkpt lat="41.67910830" lon="-74.37040690">
+<trkpt lat="41.67914852" lon="-74.37024597">
 <ele>470.000</ele>
 </trkpt>
-<trkpt lat="41.67918370" lon="-74.37020110">
+<trkpt lat="41.67957782" lon="-74.36993288">
 <ele>480.000</ele>
 </trkpt>
-<trkpt lat="41.67913300" lon="-74.36999740">
+<trkpt lat="41.67952712" lon="-74.36972918">
 <ele>478.000</ele>
 </trkpt>
-<trkpt lat="41.67895180" lon="-74.36979420">
+<trkpt lat="41.67904028" lon="-74.36957962">
 <ele>487.000</ele>
 </trkpt>
-<trkpt lat="41.67843630" lon="-74.36942370">
+<trkpt lat="41.67829152" lon="-74.36954172">
 <ele>497.000</ele>
 </trkpt>
-<trkpt lat="41.67838510" lon="-74.36911710">
+<trkpt lat="41.67824032" lon="-74.36923512">
 <ele>502.000</ele>
 </trkpt>
 <trkpt lat="41.67858630" lon="-74.36884180">
@@ -3285,19 +3353,19 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.67871370" lon="-74.36826090">
 <ele>524.000</ele>
 </trkpt>
-<trkpt lat="41.67853130" lon="-74.36785270">
+<trkpt lat="41.67865999" lon="-74.36772395">
 <ele>530.000</ele>
 </trkpt>
-<trkpt lat="41.67783830" lon="-74.36714310">
+<trkpt lat="41.67816004" lon="-74.36717529">
 <ele>552.000</ele>
 </trkpt>
 <trkpt lat="41.67778130" lon="-74.36659700">
 <ele>562.000</ele>
 </trkpt>
-<trkpt lat="41.67785650" lon="-74.36635750">
+<trkpt lat="41.67753476" lon="-74.36647552">
 <ele>562.000</ele>
 </trkpt>
-<trkpt lat="41.67760380" lon="-74.36625790">
+<trkpt lat="41.67738663" lon="-74.36622571">
 <ele>568.000</ele>
 </trkpt>
 <trkpt lat="41.67726920" lon="-74.36602240">
@@ -3312,10 +3380,10 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.67697820" lon="-74.36469390">
 <ele>597.000</ele>
 </trkpt>
-<trkpt lat="41.67704960" lon="-74.36377490">
+<trkpt lat="41.67698525" lon="-74.36411822">
 <ele>612.000</ele>
 </trkpt>
-<trkpt lat="41.67695470" lon="-74.36370670">
+<trkpt lat="41.67685818" lon="-74.36381399">
 <ele>612.000</ele>
 </trkpt>
 <trkpt lat="41.67656300" lon="-74.36372190">
@@ -3333,13 +3401,13 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.67514730" lon="-74.36181060">
 <ele>648.000</ele>
 </trkpt>
-<trkpt lat="41.67488830" lon="-74.36140400">
+<trkpt lat="41.67497678" lon="-74.36115724">
 <ele>651.000</ele>
 </trkpt>
-<trkpt lat="41.67406490" lon="-74.36072960">
+<trkpt lat="41.67444296" lon="-74.36065450">
 <ele>652.000</ele>
 </trkpt>
-<trkpt lat="41.67387450" lon="-74.36049720">
+<trkpt lat="41.67393885" lon="-74.36036845">
 <ele>654.000</ele>
 </trkpt>
 <trkpt lat="41.67351550" lon="-74.36073300">
@@ -3357,10 +3425,10 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.67149980" lon="-74.36052900">
 <ele>631.000</ele>
 </trkpt>
-<trkpt lat="41.67093270" lon="-74.36043670">
+<trkpt lat="41.67097292" lon="-74.36064055">
 <ele>625.000</ele>
 </trkpt>
-<trkpt lat="41.67049430" lon="-74.36071970">
+<trkpt lat="41.67053452" lon="-74.36074116">
 <ele>620.000</ele>
 </trkpt>
 <trkpt lat="41.67056070" lon="-74.36031350">
@@ -3468,10 +3536,10 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.67375920" lon="-74.35172600">
 <ele>687.000</ele>
 </trkpt>
-<trkpt lat="41.67447440" lon="-74.35157490">
+<trkpt lat="41.67456087" lon="-74.35149712">
 <ele>689.000</ele>
 </trkpt>
-<trkpt lat="41.67432110" lon="-74.35053610">
+<trkpt lat="41.67422457" lon="-74.35054683">
 <ele>681.000</ele>
 </trkpt>
 <trkpt lat="41.67466980" lon="-74.34919500">
@@ -15364,7 +15432,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <desc>bad,ccw</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-05-20T16:37:13.113Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T18:06:53.427Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Undercliff-Overcliff</label_text>
@@ -15776,37 +15844,37 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.73695800" lon="-74.18921600">
 <ele>289.700</ele>
 </trkpt>
-<trkpt lat="41.73695800" lon="-74.18915600">
+<trkpt lat="41.73702631" lon="-74.18915600">
 <ele>288.800</ele>
 </trkpt>
-<trkpt lat="41.73695400" lon="-74.18909300">
+<trkpt lat="41.73702231" lon="-74.18909300">
 <ele>287.400</ele>
 </trkpt>
-<trkpt lat="41.73695300" lon="-74.18903200">
+<trkpt lat="41.73702131" lon="-74.18903200">
 <ele>286.200</ele>
 </trkpt>
-<trkpt lat="41.73695000" lon="-74.18898100">
+<trkpt lat="41.73701831" lon="-74.18898100">
 <ele>284.900</ele>
 </trkpt>
-<trkpt lat="41.73695300" lon="-74.18893400">
+<trkpt lat="41.73702131" lon="-74.18893400">
 <ele>284.300</ele>
 </trkpt>
-<trkpt lat="41.73695900" lon="-74.18889000">
+<trkpt lat="41.73702731" lon="-74.18889000">
 <ele>284.000</ele>
 </trkpt>
-<trkpt lat="41.73697000" lon="-74.18884000">
+<trkpt lat="41.73703831" lon="-74.18884000">
 <ele>284.000</ele>
 </trkpt>
-<trkpt lat="41.73698000" lon="-74.18879600">
+<trkpt lat="41.73704831" lon="-74.18879600">
 <ele>283.900</ele>
 </trkpt>
-<trkpt lat="41.73698800" lon="-74.18875200">
+<trkpt lat="41.73705631" lon="-74.18875200">
 <ele>283.700</ele>
 </trkpt>
-<trkpt lat="41.73700600" lon="-74.18870800">
+<trkpt lat="41.73707431" lon="-74.18870800">
 <ele>284.400</ele>
 </trkpt>
-<trkpt lat="41.73703100" lon="-74.18866200">
+<trkpt lat="41.73706716" lon="-74.18865127">
 <ele>285.700</ele>
 </trkpt>
 <trkpt lat="41.73705800" lon="-74.18861800">
@@ -16010,589 +16078,589 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.73803300" lon="-74.18556300">
 <ele>293.500</ele>
 </trkpt>
-<trkpt lat="41.73806200" lon="-74.18554100">
+<trkpt lat="41.73803488" lon="-74.18546590">
 <ele>294.400</ele>
 </trkpt>
-<trkpt lat="41.73811100" lon="-74.18550500">
+<trkpt lat="41.73808388" lon="-74.18542990">
 <ele>295.800</ele>
 </trkpt>
-<trkpt lat="41.73813600" lon="-74.18548400">
+<trkpt lat="41.73810888" lon="-74.18540890">
 <ele>296.500</ele>
 </trkpt>
-<trkpt lat="41.73816000" lon="-74.18545900">
+<trkpt lat="41.73813288" lon="-74.18538390">
 <ele>296.900</ele>
 </trkpt>
-<trkpt lat="41.73819800" lon="-74.18541300">
+<trkpt lat="41.73817088" lon="-74.18533790">
 <ele>297.300</ele>
 </trkpt>
-<trkpt lat="41.73822200" lon="-74.18539100">
+<trkpt lat="41.73819488" lon="-74.18531590">
 <ele>297.900</ele>
 </trkpt>
-<trkpt lat="41.73824900" lon="-74.18536700">
+<trkpt lat="41.73820882" lon="-74.18523825">
 <ele>298.500</ele>
 </trkpt>
-<trkpt lat="41.73827900" lon="-74.18533800">
+<trkpt lat="41.73823882" lon="-74.18520925">
 <ele>299.100</ele>
 </trkpt>
-<trkpt lat="41.73830800" lon="-74.18531000">
+<trkpt lat="41.73826782" lon="-74.18518125">
 <ele>299.900</ele>
 </trkpt>
-<trkpt lat="41.73833400" lon="-74.18528300">
+<trkpt lat="41.73829382" lon="-74.18515425">
 <ele>300.600</ele>
 </trkpt>
-<trkpt lat="41.73836100" lon="-74.18526000">
+<trkpt lat="41.73832082" lon="-74.18513125">
 <ele>301.300</ele>
 </trkpt>
-<trkpt lat="41.73838700" lon="-74.18524400">
+<trkpt lat="41.73834682" lon="-74.18511525">
 <ele>302.500</ele>
 </trkpt>
-<trkpt lat="41.73841500" lon="-74.18522600">
+<trkpt lat="41.73837482" lon="-74.18509725">
 <ele>304.600</ele>
 </trkpt>
-<trkpt lat="41.73843800" lon="-74.18520000">
+<trkpt lat="41.73839782" lon="-74.18507125">
 <ele>305.500</ele>
 </trkpt>
-<trkpt lat="41.73846000" lon="-74.18517200">
+<trkpt lat="41.73841982" lon="-74.18504325">
 <ele>305.700</ele>
 </trkpt>
-<trkpt lat="41.73847900" lon="-74.18513900">
+<trkpt lat="41.73843882" lon="-74.18501025">
 <ele>305.300</ele>
 </trkpt>
-<trkpt lat="41.73850000" lon="-74.18510800">
+<trkpt lat="41.73845982" lon="-74.18497925">
 <ele>306.000</ele>
 </trkpt>
-<trkpt lat="41.73852300" lon="-74.18507000">
+<trkpt lat="41.73848282" lon="-74.18494125">
 <ele>305.700</ele>
 </trkpt>
-<trkpt lat="41.73854800" lon="-74.18503400">
+<trkpt lat="41.73850782" lon="-74.18490525">
 <ele>305.400</ele>
 </trkpt>
-<trkpt lat="41.73857000" lon="-74.18499900">
+<trkpt lat="41.73852982" lon="-74.18487025">
 <ele>305.100</ele>
 </trkpt>
-<trkpt lat="41.73859700" lon="-74.18496300">
+<trkpt lat="41.73855682" lon="-74.18483425">
 <ele>305.400</ele>
 </trkpt>
-<trkpt lat="41.73862400" lon="-74.18493100">
+<trkpt lat="41.73858382" lon="-74.18480225">
 <ele>305.900</ele>
 </trkpt>
-<trkpt lat="41.73865000" lon="-74.18489900">
+<trkpt lat="41.73860982" lon="-74.18477025">
 <ele>306.200</ele>
 </trkpt>
-<trkpt lat="41.73866900" lon="-74.18486700">
+<trkpt lat="41.73862882" lon="-74.18473825">
 <ele>305.900</ele>
 </trkpt>
-<trkpt lat="41.73869000" lon="-74.18482500">
+<trkpt lat="41.73864982" lon="-74.18469625">
 <ele>305.300</ele>
 </trkpt>
-<trkpt lat="41.73871600" lon="-74.18477500">
+<trkpt lat="41.73867582" lon="-74.18464625">
 <ele>304.300</ele>
 </trkpt>
-<trkpt lat="41.73874300" lon="-74.18472500">
+<trkpt lat="41.73870282" lon="-74.18459625">
 <ele>303.400</ele>
 </trkpt>
-<trkpt lat="41.73876900" lon="-74.18468200">
+<trkpt lat="41.73872882" lon="-74.18455325">
 <ele>302.900</ele>
 </trkpt>
-<trkpt lat="41.73879100" lon="-74.18465000">
+<trkpt lat="41.73875082" lon="-74.18452125">
 <ele>303.100</ele>
 </trkpt>
-<trkpt lat="41.73881800" lon="-74.18462200">
+<trkpt lat="41.73877782" lon="-74.18449325">
 <ele>303.700</ele>
 </trkpt>
-<trkpt lat="41.73885100" lon="-74.18459400">
+<trkpt lat="41.73881082" lon="-74.18446525">
 <ele>304.700</ele>
 </trkpt>
-<trkpt lat="41.73888500" lon="-74.18456400">
+<trkpt lat="41.73884482" lon="-74.18443525">
 <ele>306.500</ele>
 </trkpt>
-<trkpt lat="41.73892000" lon="-74.18453200">
+<trkpt lat="41.73887982" lon="-74.18440325">
 <ele>307.800</ele>
 </trkpt>
-<trkpt lat="41.73895100" lon="-74.18449900">
+<trkpt lat="41.73891082" lon="-74.18437025">
 <ele>308.300</ele>
 </trkpt>
-<trkpt lat="41.73898100" lon="-74.18446600">
+<trkpt lat="41.73894082" lon="-74.18433725">
 <ele>308.700</ele>
 </trkpt>
-<trkpt lat="41.73901200" lon="-74.18442800">
+<trkpt lat="41.73897182" lon="-74.18429925">
 <ele>308.500</ele>
 </trkpt>
-<trkpt lat="41.73904500" lon="-74.18438500">
+<trkpt lat="41.73900482" lon="-74.18425625">
 <ele>307.800</ele>
 </trkpt>
-<trkpt lat="41.73907700" lon="-74.18434900">
+<trkpt lat="41.73903682" lon="-74.18422025">
 <ele>307.700</ele>
 </trkpt>
-<trkpt lat="41.73910500" lon="-74.18432100">
+<trkpt lat="41.73906482" lon="-74.18419225">
 <ele>307.700</ele>
 </trkpt>
-<trkpt lat="41.73914000" lon="-74.18430000">
+<trkpt lat="41.73909982" lon="-74.18417125">
 <ele>309.000</ele>
 </trkpt>
-<trkpt lat="41.73917200" lon="-74.18427000">
+<trkpt lat="41.73913182" lon="-74.18414125">
 <ele>309.500</ele>
 </trkpt>
-<trkpt lat="41.73920900" lon="-74.18423800">
+<trkpt lat="41.73916882" lon="-74.18410925">
 <ele>309.700</ele>
 </trkpt>
-<trkpt lat="41.73924100" lon="-74.18420900">
+<trkpt lat="41.73920082" lon="-74.18408025">
 <ele>310.300</ele>
 </trkpt>
-<trkpt lat="41.73926800" lon="-74.18418200">
+<trkpt lat="41.73922782" lon="-74.18405325">
 <ele>310.700</ele>
 </trkpt>
-<trkpt lat="41.73929600" lon="-74.18415900">
+<trkpt lat="41.73925582" lon="-74.18403025">
 <ele>311.300</ele>
 </trkpt>
-<trkpt lat="41.73932700" lon="-74.18413900">
+<trkpt lat="41.73928682" lon="-74.18401025">
 <ele>312.600</ele>
 </trkpt>
-<trkpt lat="41.73935900" lon="-74.18411900">
+<trkpt lat="41.73931882" lon="-74.18396880">
 <ele>313.800</ele>
 </trkpt>
-<trkpt lat="41.73939500" lon="-74.18408900">
+<trkpt lat="41.73935482" lon="-74.18393880">
 <ele>314.800</ele>
 </trkpt>
-<trkpt lat="41.73942800" lon="-74.18405800">
+<trkpt lat="41.73938782" lon="-74.18390780">
 <ele>315.400</ele>
 </trkpt>
-<trkpt lat="41.73946400" lon="-74.18403300">
+<trkpt lat="41.73942382" lon="-74.18388280">
 <ele>316.300</ele>
 </trkpt>
-<trkpt lat="41.73950200" lon="-74.18401700">
+<trkpt lat="41.73946182" lon="-74.18386680">
 <ele>318.900</ele>
 </trkpt>
-<trkpt lat="41.73954100" lon="-74.18399600">
+<trkpt lat="41.73950082" lon="-74.18384580">
 <ele>322.300</ele>
 </trkpt>
-<trkpt lat="41.73957200" lon="-74.18396000">
+<trkpt lat="41.73953182" lon="-74.18380980">
 <ele>321.900</ele>
 </trkpt>
-<trkpt lat="41.73959700" lon="-74.18391800">
+<trkpt lat="41.73955682" lon="-74.18376780">
 <ele>320.100</ele>
 </trkpt>
-<trkpt lat="41.73961600" lon="-74.18388200">
+<trkpt lat="41.73957582" lon="-74.18373180">
 <ele>318.700</ele>
 </trkpt>
-<trkpt lat="41.73963600" lon="-74.18384800">
+<trkpt lat="41.73959582" lon="-74.18369780">
 <ele>317.100</ele>
 </trkpt>
-<trkpt lat="41.73965800" lon="-74.18381600">
+<trkpt lat="41.73961782" lon="-74.18366580">
 <ele>316.400</ele>
 </trkpt>
-<trkpt lat="41.73968500" lon="-74.18378500">
+<trkpt lat="41.73964482" lon="-74.18363480">
 <ele>316.400</ele>
 </trkpt>
-<trkpt lat="41.73971300" lon="-74.18375900">
+<trkpt lat="41.73967282" lon="-74.18360880">
 <ele>317.000</ele>
 </trkpt>
-<trkpt lat="41.73974100" lon="-74.18373100">
+<trkpt lat="41.73970082" lon="-74.18358080">
 <ele>317.200</ele>
 </trkpt>
-<trkpt lat="41.73976800" lon="-74.18369800">
+<trkpt lat="41.73972782" lon="-74.18354780">
 <ele>316.900</ele>
 </trkpt>
-<trkpt lat="41.73979200" lon="-74.18366900">
+<trkpt lat="41.73975182" lon="-74.18351880">
 <ele>317.100</ele>
 </trkpt>
-<trkpt lat="41.73981200" lon="-74.18363100">
+<trkpt lat="41.73977182" lon="-74.18348080">
 <ele>315.700</ele>
 </trkpt>
-<trkpt lat="41.73983500" lon="-74.18359100">
+<trkpt lat="41.73979482" lon="-74.18344080">
 <ele>314.200</ele>
 </trkpt>
-<trkpt lat="41.73985800" lon="-74.18355200">
+<trkpt lat="41.73981782" lon="-74.18340180">
 <ele>312.600</ele>
 </trkpt>
-<trkpt lat="41.73988200" lon="-74.18352000">
+<trkpt lat="41.73984182" lon="-74.18336980">
 <ele>312.600</ele>
 </trkpt>
-<trkpt lat="41.73990500" lon="-74.18349200">
+<trkpt lat="41.73986482" lon="-74.18334180">
 <ele>312.400</ele>
 </trkpt>
-<trkpt lat="41.73993000" lon="-74.18346100">
+<trkpt lat="41.73988982" lon="-74.18331080">
 <ele>311.900</ele>
 </trkpt>
-<trkpt lat="41.73995900" lon="-74.18343800">
+<trkpt lat="41.73991882" lon="-74.18328780">
 <ele>312.800</ele>
 </trkpt>
-<trkpt lat="41.73998800" lon="-74.18341800">
+<trkpt lat="41.73994782" lon="-74.18326780">
 <ele>314.400</ele>
 </trkpt>
-<trkpt lat="41.74002000" lon="-74.18340000">
+<trkpt lat="41.73997982" lon="-74.18324980">
 <ele>316.200</ele>
 </trkpt>
-<trkpt lat="41.74006200" lon="-74.18339200">
+<trkpt lat="41.74002182" lon="-74.18324180">
 <ele>320.600</ele>
 </trkpt>
-<trkpt lat="41.74009900" lon="-74.18337700">
+<trkpt lat="41.74005882" lon="-74.18322680">
 <ele>324.300</ele>
 </trkpt>
-<trkpt lat="41.74013000" lon="-74.18336700">
+<trkpt lat="41.74008982" lon="-74.18321680">
 <ele>327.700</ele>
 </trkpt>
-<trkpt lat="41.74015900" lon="-74.18334900">
+<trkpt lat="41.74011882" lon="-74.18319880">
 <ele>329.500</ele>
 </trkpt>
-<trkpt lat="41.74018800" lon="-74.18332600">
+<trkpt lat="41.74014782" lon="-74.18317580">
 <ele>330.700</ele>
 </trkpt>
-<trkpt lat="41.74021800" lon="-74.18329800">
+<trkpt lat="41.74017782" lon="-74.18314780">
 <ele>331.600</ele>
 </trkpt>
-<trkpt lat="41.74024300" lon="-74.18327100">
+<trkpt lat="41.74020282" lon="-74.18312080">
 <ele>331.500</ele>
 </trkpt>
-<trkpt lat="41.74027000" lon="-74.18324800">
+<trkpt lat="41.74022982" lon="-74.18309780">
 <ele>332.000</ele>
 </trkpt>
-<trkpt lat="41.74029600" lon="-74.18322600">
+<trkpt lat="41.74025582" lon="-74.18307580">
 <ele>332.600</ele>
 </trkpt>
-<trkpt lat="41.74032500" lon="-74.18320100">
+<trkpt lat="41.74028482" lon="-74.18305080">
 <ele>333.500</ele>
 </trkpt>
-<trkpt lat="41.74035700" lon="-74.18317600">
+<trkpt lat="41.74031682" lon="-74.18302580">
 <ele>335.000</ele>
 </trkpt>
-<trkpt lat="41.74038500" lon="-74.18315300">
+<trkpt lat="41.74034482" lon="-74.18300280">
 <ele>336.300</ele>
 </trkpt>
-<trkpt lat="41.74041400" lon="-74.18313700">
+<trkpt lat="41.74037382" lon="-74.18298680">
 <ele>338.700</ele>
 </trkpt>
-<trkpt lat="41.74043900" lon="-74.18310700">
+<trkpt lat="41.74039882" lon="-74.18295680">
 <ele>338.400</ele>
 </trkpt>
-<trkpt lat="41.74046200" lon="-74.18308000">
+<trkpt lat="41.74042182" lon="-74.18292980">
 <ele>338.200</ele>
 </trkpt>
-<trkpt lat="41.74048500" lon="-74.18305000">
+<trkpt lat="41.74044482" lon="-74.18289980">
 <ele>337.800</ele>
 </trkpt>
-<trkpt lat="41.74051500" lon="-74.18302200">
+<trkpt lat="41.74047482" lon="-74.18287180">
 <ele>338.900</ele>
 </trkpt>
-<trkpt lat="41.74055000" lon="-74.18299300">
+<trkpt lat="41.74050982" lon="-74.18284280">
 <ele>339.800</ele>
 </trkpt>
-<trkpt lat="41.74058300" lon="-74.18297300">
+<trkpt lat="41.74054282" lon="-74.18282280">
 <ele>341.900</ele>
 </trkpt>
-<trkpt lat="41.74061400" lon="-74.18295000">
+<trkpt lat="41.74057382" lon="-74.18279980">
 <ele>343.400</ele>
 </trkpt>
-<trkpt lat="41.74063600" lon="-74.18292200">
+<trkpt lat="41.74059582" lon="-74.18277180">
 <ele>342.900</ele>
 </trkpt>
-<trkpt lat="41.74065500" lon="-74.18288900">
+<trkpt lat="41.74061482" lon="-74.18273880">
 <ele>340.800</ele>
 </trkpt>
-<trkpt lat="41.74067200" lon="-74.18285200">
+<trkpt lat="41.74063182" lon="-74.18270180">
 <ele>338.000</ele>
 </trkpt>
-<trkpt lat="41.74069200" lon="-74.18280700">
+<trkpt lat="41.74065182" lon="-74.18265680">
 <ele>334.700</ele>
 </trkpt>
-<trkpt lat="41.74071600" lon="-74.18276100">
+<trkpt lat="41.74067582" lon="-74.18261080">
 <ele>331.300</ele>
 </trkpt>
-<trkpt lat="41.74073800" lon="-74.18273100">
+<trkpt lat="41.74069782" lon="-74.18258080">
 <ele>330.500</ele>
 </trkpt>
-<trkpt lat="41.74076100" lon="-74.18271000">
+<trkpt lat="41.74072082" lon="-74.18255980">
 <ele>331.300</ele>
 </trkpt>
-<trkpt lat="41.74080600" lon="-74.18266800">
+<trkpt lat="41.74076582" lon="-74.18251780">
 <ele>332.000</ele>
 </trkpt>
-<trkpt lat="41.74082900" lon="-74.18264700">
+<trkpt lat="41.74078882" lon="-74.18249680">
 <ele>332.300</ele>
 </trkpt>
-<trkpt lat="41.74087200" lon="-74.18260900">
+<trkpt lat="41.74083182" lon="-74.18245880">
 <ele>333.300</ele>
 </trkpt>
-<trkpt lat="41.74089900" lon="-74.18258600">
+<trkpt lat="41.74085882" lon="-74.18243580">
 <ele>333.800</ele>
 </trkpt>
-<trkpt lat="41.74092400" lon="-74.18255700">
+<trkpt lat="41.74088382" lon="-74.18240680">
 <ele>333.200</ele>
 </trkpt>
-<trkpt lat="41.74095100" lon="-74.18252400">
+<trkpt lat="41.74091082" lon="-74.18237380">
 <ele>332.300</ele>
 </trkpt>
-<trkpt lat="41.74097600" lon="-74.18248300">
+<trkpt lat="41.74093582" lon="-74.18233280">
 <ele>330.100</ele>
 </trkpt>
-<trkpt lat="41.74100100" lon="-74.18243500">
+<trkpt lat="41.74096082" lon="-74.18228480">
 <ele>327.300</ele>
 </trkpt>
-<trkpt lat="41.74102600" lon="-74.18239300">
+<trkpt lat="41.74098582" lon="-74.18224280">
 <ele>325.400</ele>
 </trkpt>
-<trkpt lat="41.74105400" lon="-74.18235900">
+<trkpt lat="41.74101382" lon="-74.18220880">
 <ele>324.700</ele>
 </trkpt>
-<trkpt lat="41.74108700" lon="-74.18232900">
+<trkpt lat="41.74104682" lon="-74.18217880">
 <ele>325.500</ele>
 </trkpt>
-<trkpt lat="41.74112100" lon="-74.18229900">
+<trkpt lat="41.74108082" lon="-74.18214880">
 <ele>326.200</ele>
 </trkpt>
-<trkpt lat="41.74115500" lon="-74.18227300">
+<trkpt lat="41.74111482" lon="-74.18212280">
 <ele>327.100</ele>
 </trkpt>
-<trkpt lat="41.74118500" lon="-74.18223700">
+<trkpt lat="41.74114482" lon="-74.18208680">
 <ele>326.900</ele>
 </trkpt>
-<trkpt lat="41.74121100" lon="-74.18219500">
+<trkpt lat="41.74117082" lon="-74.18204480">
 <ele>325.000</ele>
 </trkpt>
-<trkpt lat="41.74123500" lon="-74.18216100">
+<trkpt lat="41.74119482" lon="-74.18201080">
 <ele>323.800</ele>
 </trkpt>
-<trkpt lat="41.74125800" lon="-74.18213600">
+<trkpt lat="41.74121782" lon="-74.18198580">
 <ele>324.000</ele>
 </trkpt>
-<trkpt lat="41.74128300" lon="-74.18211300">
+<trkpt lat="41.74124282" lon="-74.18196280">
 <ele>324.700</ele>
 </trkpt>
-<trkpt lat="41.74131300" lon="-74.18209700">
+<trkpt lat="41.74127282" lon="-74.18194680">
 <ele>326.400</ele>
 </trkpt>
-<trkpt lat="41.74134500" lon="-74.18208600">
+<trkpt lat="41.74130482" lon="-74.18193580">
 <ele>328.900</ele>
 </trkpt>
-<trkpt lat="41.74137300" lon="-74.18206800">
+<trkpt lat="41.74133282" lon="-74.18191780">
 <ele>330.600</ele>
 </trkpt>
-<trkpt lat="41.74139900" lon="-74.18204400">
+<trkpt lat="41.74135882" lon="-74.18189380">
 <ele>331.200</ele>
 </trkpt>
-<trkpt lat="41.74142000" lon="-74.18201300">
+<trkpt lat="41.74137982" lon="-74.18186280">
 <ele>330.100</ele>
 </trkpt>
-<trkpt lat="41.74144400" lon="-74.18197700">
+<trkpt lat="41.74140382" lon="-74.18182680">
 <ele>329.000</ele>
 </trkpt>
-<trkpt lat="41.74147200" lon="-74.18194300">
+<trkpt lat="41.74143182" lon="-74.18179280">
 <ele>329.000</ele>
 </trkpt>
-<trkpt lat="41.74150100" lon="-74.18191900">
+<trkpt lat="41.74146082" lon="-74.18176880">
 <ele>329.700</ele>
 </trkpt>
-<trkpt lat="41.74152900" lon="-74.18189600">
+<trkpt lat="41.74148882" lon="-74.18174580">
 <ele>330.100</ele>
 </trkpt>
-<trkpt lat="41.74156400" lon="-74.18187500">
+<trkpt lat="41.74152382" lon="-74.18172480">
 <ele>332.900</ele>
 </trkpt>
-<trkpt lat="41.74160100" lon="-74.18185600">
+<trkpt lat="41.74156082" lon="-74.18170580">
 <ele>335.600</ele>
 </trkpt>
-<trkpt lat="41.74163200" lon="-74.18183600">
+<trkpt lat="41.74159182" lon="-74.18168580">
 <ele>337.000</ele>
 </trkpt>
-<trkpt lat="41.74165400" lon="-74.18181400">
+<trkpt lat="41.74161382" lon="-74.18166380">
 <ele>337.300</ele>
 </trkpt>
-<trkpt lat="41.74169000" lon="-74.18174900">
+<trkpt lat="41.74164982" lon="-74.18159880">
 <ele>334.700</ele>
 </trkpt>
-<trkpt lat="41.74171100" lon="-74.18170600">
+<trkpt lat="41.74167082" lon="-74.18155580">
 <ele>332.000</ele>
 </trkpt>
-<trkpt lat="41.74173500" lon="-74.18167000">
+<trkpt lat="41.74169482" lon="-74.18151980">
 <ele>331.200</ele>
 </trkpt>
-<trkpt lat="41.74176600" lon="-74.18164200">
+<trkpt lat="41.74172582" lon="-74.18149180">
 <ele>331.900</ele>
 </trkpt>
-<trkpt lat="41.74179800" lon="-74.18162000">
+<trkpt lat="41.74175782" lon="-74.18146980">
 <ele>333.100</ele>
 </trkpt>
-<trkpt lat="41.74183200" lon="-74.18159500">
+<trkpt lat="41.74179182" lon="-74.18144480">
 <ele>334.500</ele>
 </trkpt>
-<trkpt lat="41.74186500" lon="-74.18156200">
+<trkpt lat="41.74182482" lon="-74.18141180">
 <ele>334.600</ele>
 </trkpt>
-<trkpt lat="41.74189300" lon="-74.18152500">
+<trkpt lat="41.74185282" lon="-74.18137480">
 <ele>333.500</ele>
 </trkpt>
-<trkpt lat="41.74191800" lon="-74.18149500">
+<trkpt lat="41.74187782" lon="-74.18134480">
 <ele>332.800</ele>
 </trkpt>
-<trkpt lat="41.74193900" lon="-74.18146800">
+<trkpt lat="41.74189882" lon="-74.18131780">
 <ele>332.000</ele>
 </trkpt>
-<trkpt lat="41.74196400" lon="-74.18143800">
+<trkpt lat="41.74192382" lon="-74.18128780">
 <ele>331.300</ele>
 </trkpt>
-<trkpt lat="41.74199000" lon="-74.18139900">
+<trkpt lat="41.74194982" lon="-74.18124880">
 <ele>329.400</ele>
 </trkpt>
-<trkpt lat="41.74201100" lon="-74.18135200">
+<trkpt lat="41.74197082" lon="-74.18120180">
 <ele>325.700</ele>
 </trkpt>
-<trkpt lat="41.74202900" lon="-74.18130700">
+<trkpt lat="41.74198882" lon="-74.18115680">
 <ele>322.600</ele>
 </trkpt>
-<trkpt lat="41.74204800" lon="-74.18127100">
+<trkpt lat="41.74200782" lon="-74.18112080">
 <ele>320.400</ele>
 </trkpt>
-<trkpt lat="41.74207100" lon="-74.18124200">
+<trkpt lat="41.74203082" lon="-74.18109180">
 <ele>319.200</ele>
 </trkpt>
-<trkpt lat="41.74209700" lon="-74.18121200">
+<trkpt lat="41.74205682" lon="-74.18106180">
 <ele>318.500</ele>
 </trkpt>
-<trkpt lat="41.74212200" lon="-74.18118600">
+<trkpt lat="41.74208182" lon="-74.18103580">
 <ele>318.300</ele>
 </trkpt>
-<trkpt lat="41.74214700" lon="-74.18115600">
+<trkpt lat="41.74210682" lon="-74.18100580">
 <ele>317.400</ele>
 </trkpt>
-<trkpt lat="41.74217500" lon="-74.18112800">
+<trkpt lat="41.74213482" lon="-74.18097780">
 <ele>317.300</ele>
 </trkpt>
-<trkpt lat="41.74219800" lon="-74.18109900">
+<trkpt lat="41.74215782" lon="-74.18094880">
 <ele>317.100</ele>
 </trkpt>
-<trkpt lat="41.74222100" lon="-74.18106900">
+<trkpt lat="41.74218082" lon="-74.18091880">
 <ele>316.500</ele>
 </trkpt>
-<trkpt lat="41.74224200" lon="-74.18103400">
+<trkpt lat="41.74220182" lon="-74.18088380">
 <ele>315.400</ele>
 </trkpt>
-<trkpt lat="41.74226600" lon="-74.18100400">
+<trkpt lat="41.74222582" lon="-74.18085380">
 <ele>314.800</ele>
 </trkpt>
-<trkpt lat="41.74229400" lon="-74.18097800">
+<trkpt lat="41.74225382" lon="-74.18082780">
 <ele>315.100</ele>
 </trkpt>
-<trkpt lat="41.74232200" lon="-74.18095500">
+<trkpt lat="41.74228182" lon="-74.18080480">
 <ele>315.900</ele>
 </trkpt>
-<trkpt lat="41.74235300" lon="-74.18093500">
+<trkpt lat="41.74231282" lon="-74.18078480">
 <ele>317.000</ele>
 </trkpt>
-<trkpt lat="41.74238200" lon="-74.18091200">
+<trkpt lat="41.74234182" lon="-74.18076180">
 <ele>317.500</ele>
 </trkpt>
-<trkpt lat="41.74241300" lon="-74.18088200">
+<trkpt lat="41.74237282" lon="-74.18073180">
 <ele>317.200</ele>
 </trkpt>
-<trkpt lat="41.74244300" lon="-74.18084900">
+<trkpt lat="41.74240282" lon="-74.18069880">
 <ele>317.000</ele>
 </trkpt>
-<trkpt lat="41.74246800" lon="-74.18082100">
+<trkpt lat="41.74242782" lon="-74.18067080">
 <ele>316.900</ele>
 </trkpt>
-<trkpt lat="41.74249800" lon="-74.18079500">
+<trkpt lat="41.74245782" lon="-74.18064480">
 <ele>317.400</ele>
 </trkpt>
-<trkpt lat="41.74252800" lon="-74.18076700">
+<trkpt lat="41.74248782" lon="-74.18061680">
 <ele>317.600</ele>
 </trkpt>
-<trkpt lat="41.74255700" lon="-74.18073900">
+<trkpt lat="41.74251682" lon="-74.18058880">
 <ele>317.700</ele>
 </trkpt>
-<trkpt lat="41.74258900" lon="-74.18070700">
+<trkpt lat="41.74254882" lon="-74.18055680">
 <ele>318.000</ele>
 </trkpt>
-<trkpt lat="41.74261700" lon="-74.18067800">
+<trkpt lat="41.74257682" lon="-74.18052780">
 <ele>318.000</ele>
 </trkpt>
-<trkpt lat="41.74264700" lon="-74.18064700">
+<trkpt lat="41.74260682" lon="-74.18049680">
 <ele>317.900</ele>
 </trkpt>
-<trkpt lat="41.74268400" lon="-74.18061600">
+<trkpt lat="41.74264382" lon="-74.18046580">
 <ele>318.400</ele>
 </trkpt>
-<trkpt lat="41.74272100" lon="-74.18058700">
+<trkpt lat="41.74268082" lon="-74.18043680">
 <ele>318.900</ele>
 </trkpt>
-<trkpt lat="41.74275300" lon="-74.18055400">
+<trkpt lat="41.74271282" lon="-74.18040380">
 <ele>319.100</ele>
 </trkpt>
-<trkpt lat="41.74278200" lon="-74.18051900">
+<trkpt lat="41.74274182" lon="-74.18036880">
 <ele>318.300</ele>
 </trkpt>
-<trkpt lat="41.74281000" lon="-74.18049000">
+<trkpt lat="41.74276982" lon="-74.18033980">
 <ele>317.900</ele>
 </trkpt>
-<trkpt lat="41.74283700" lon="-74.18045100">
+<trkpt lat="41.74279682" lon="-74.18030080">
 <ele>316.800</ele>
 </trkpt>
-<trkpt lat="41.74286300" lon="-74.18041600">
+<trkpt lat="41.74282282" lon="-74.18026580">
 <ele>316.000</ele>
 </trkpt>
-<trkpt lat="41.74288900" lon="-74.18037900">
+<trkpt lat="41.74284882" lon="-74.18022880">
 <ele>315.300</ele>
 </trkpt>
-<trkpt lat="41.74291700" lon="-74.18034000">
+<trkpt lat="41.74287682" lon="-74.18018980">
 <ele>314.000</ele>
 </trkpt>
-<trkpt lat="41.74294700" lon="-74.18030200">
+<trkpt lat="41.74290682" lon="-74.18015180">
 <ele>313.600</ele>
 </trkpt>
-<trkpt lat="41.74297600" lon="-74.18026600">
+<trkpt lat="41.74293582" lon="-74.18011580">
 <ele>313.000</ele>
 </trkpt>
-<trkpt lat="41.74300200" lon="-74.18023600">
+<trkpt lat="41.74296182" lon="-74.18008580">
 <ele>311.900</ele>
 </trkpt>
-<trkpt lat="41.74302900" lon="-74.18020600">
+<trkpt lat="41.74298882" lon="-74.18005580">
 <ele>312.100</ele>
 </trkpt>
-<trkpt lat="41.74305800" lon="-74.18017400">
+<trkpt lat="41.74301782" lon="-74.18002380">
 <ele>312.000</ele>
 </trkpt>
-<trkpt lat="41.74308800" lon="-74.18014600">
+<trkpt lat="41.74304782" lon="-74.17999580">
 <ele>311.600</ele>
 </trkpt>
-<trkpt lat="41.74312100" lon="-74.18011900">
+<trkpt lat="41.74308082" lon="-74.17996880">
 <ele>312.300</ele>
 </trkpt>
-<trkpt lat="41.74315100" lon="-74.18009500">
+<trkpt lat="41.74311082" lon="-74.17994480">
 <ele>313.000</ele>
 </trkpt>
-<trkpt lat="41.74317700" lon="-74.18007100">
+<trkpt lat="41.74313682" lon="-74.17992080">
 <ele>312.900</ele>
 </trkpt>
-<trkpt lat="41.74321100" lon="-74.18002900">
+<trkpt lat="41.74317082" lon="-74.17987880">
 <ele>312.100</ele>
 </trkpt>
-<trkpt lat="41.74325000" lon="-74.17997000">
+<trkpt lat="41.74320982" lon="-74.17981980">
 <ele>310.200</ele>
 </trkpt>
-<trkpt lat="41.74328600" lon="-74.17991400">
+<trkpt lat="41.74324582" lon="-74.17976380">
 <ele>308.100</ele>
 </trkpt>
-<trkpt lat="41.74331300" lon="-74.17986800">
+<trkpt lat="41.74327282" lon="-74.17971780">
 <ele>306.500</ele>
 </trkpt>
-<trkpt lat="41.74333300" lon="-74.17983100">
+<trkpt lat="41.74329282" lon="-74.17968080">
 <ele>305.100</ele>
 </trkpt>
-<trkpt lat="41.74335300" lon="-74.17979300">
+<trkpt lat="41.74331282" lon="-74.17964280">
 <ele>303.400</ele>
 </trkpt>
-<trkpt lat="41.74337200" lon="-74.17975100">
+<trkpt lat="41.74333182" lon="-74.17960080">
 <ele>301.500</ele>
 </trkpt>
-<trkpt lat="41.74339200" lon="-74.17971000">
+<trkpt lat="41.74335182" lon="-74.17955980">
 <ele>300.600</ele>
 </trkpt>
-<trkpt lat="41.74340500" lon="-74.17966500">
+<trkpt lat="41.74336482" lon="-74.17956576">
 <ele>298.900</ele>
 </trkpt>
-<trkpt lat="41.74341800" lon="-74.17962200">
+<trkpt lat="41.74337782" lon="-74.17952276">
 <ele>297.300</ele>
 </trkpt>
-<trkpt lat="41.74343400" lon="-74.17958000">
+<trkpt lat="41.74341190" lon="-74.17953440">
 <ele>295.900</ele>
 </trkpt>
 <trkpt lat="41.74345200" lon="-74.17954800">
@@ -36411,7 +36479,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <desc>bad,ne</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:20:57.867Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T17:59:30.609Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Shawangunk Ridge Trail</label_text>
@@ -43489,57 +43557,6 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.57327800" lon="-74.48345800">
 <ele>186.200</ele>
 </trkpt>
-<trkpt lat="41.57347400" lon="-74.48345300">
-<ele>187.200</ele>
-</trkpt>
-<trkpt lat="41.57363700" lon="-74.48336400">
-<ele>187.200</ele>
-</trkpt>
-<trkpt lat="41.57367900" lon="-74.48340400">
-<ele>187.600</ele>
-</trkpt>
-<trkpt lat="41.57390700" lon="-74.48336800">
-<ele>187.600</ele>
-</trkpt>
-<trkpt lat="41.57394500" lon="-74.48335100">
-<ele>187.600</ele>
-</trkpt>
-<trkpt lat="41.57399500" lon="-74.48339100">
-<ele>187.600</ele>
-</trkpt>
-<trkpt lat="41.57376000" lon="-74.48338200">
-<ele>188.000</ele>
-</trkpt>
-<trkpt lat="41.57357000" lon="-74.48335400">
-<ele>187.800</ele>
-</trkpt>
-<trkpt lat="41.57355600" lon="-74.48341100">
-<ele>188.600</ele>
-</trkpt>
-<trkpt lat="41.57345700" lon="-74.48348900">
-<ele>188.600</ele>
-</trkpt>
-<trkpt lat="41.57348300" lon="-74.48343100">
-<ele>188.200</ele>
-</trkpt>
-<trkpt lat="41.57359000" lon="-74.48336200">
-<ele>188.600</ele>
-</trkpt>
-<trkpt lat="41.57379000" lon="-74.48334600">
-<ele>188.000</ele>
-</trkpt>
-<trkpt lat="41.57401100" lon="-74.48329200">
-<ele>188.200</ele>
-</trkpt>
-<trkpt lat="41.57408500" lon="-74.48336600">
-<ele>188.000</ele>
-</trkpt>
-<trkpt lat="41.57403000" lon="-74.48337700">
-<ele>188.000</ele>
-</trkpt>
-<trkpt lat="41.57379700" lon="-74.48340600">
-<ele>187.800</ele>
-</trkpt>
 <trkpt lat="41.57364000" lon="-74.48340100">
 <ele>187.400</ele>
 </trkpt>
@@ -45549,12 +45566,6 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </trkpt>
 <trkpt lat="41.61115800" lon="-74.43430500">
 <ele>364.400</ele>
-</trkpt>
-<trkpt lat="41.61123100" lon="-74.43431400">
-<ele>368.200</ele>
-</trkpt>
-<trkpt lat="41.61117200" lon="-74.43435200">
-<ele>368.000</ele>
 </trkpt>
 <trkpt lat="41.61122700" lon="-74.43413600">
 <ele>371.200</ele>
@@ -48778,45 +48789,6 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.68039000" lon="-74.37854300">
 <ele>403.000</ele>
 </trkpt>
-<trkpt lat="41.68041700" lon="-74.37850100">
-<ele>402.400</ele>
-</trkpt>
-<trkpt lat="41.68052900" lon="-74.37862200">
-<ele>400.200</ele>
-</trkpt>
-<trkpt lat="41.68052400" lon="-74.37853700">
-<ele>399.400</ele>
-</trkpt>
-<trkpt lat="41.68047100" lon="-74.37837700">
-<ele>399.800</ele>
-</trkpt>
-<trkpt lat="41.68043100" lon="-74.37831000">
-<ele>399.600</ele>
-</trkpt>
-<trkpt lat="41.68048100" lon="-74.37835700">
-<ele>399.200</ele>
-</trkpt>
-<trkpt lat="41.68062600" lon="-74.37847800">
-<ele>399.400</ele>
-</trkpt>
-<trkpt lat="41.68050700" lon="-74.37831500">
-<ele>399.600</ele>
-</trkpt>
-<trkpt lat="41.68046200" lon="-74.37832400">
-<ele>399.400</ele>
-</trkpt>
-<trkpt lat="41.68048800" lon="-74.37837100">
-<ele>399.400</ele>
-</trkpt>
-<trkpt lat="41.68052200" lon="-74.37842800">
-<ele>400.600</ele>
-</trkpt>
-<trkpt lat="41.68045700" lon="-74.37845500">
-<ele>402.200</ele>
-</trkpt>
-<trkpt lat="41.68040200" lon="-74.37844000">
-<ele>403.000</ele>
-</trkpt>
 <trkpt lat="41.68035600" lon="-74.37844400">
 <ele>403.600</ele>
 </trkpt>
@@ -49690,7 +49662,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.67057900" lon="-74.36077000">
 <ele>612.400</ele>
 </trkpt>
-<trkpt lat="41.67058500" lon="-74.36073500">
+<trkpt lat="41.67051864" lon="-74.36070013">
 <ele>612.400</ele>
 </trkpt>
 <trkpt lat="41.67057200" lon="-74.36069200">
@@ -50131,7 +50103,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.67448200" lon="-74.35153800">
 <ele>683.500</ele>
 </trkpt>
-<trkpt lat="41.67451600" lon="-74.35142000">
+<trkpt lat="41.67455823" lon="-74.35148974">
 <ele>683.200</ele>
 </trkpt>
 <trkpt lat="41.67449500" lon="-74.35130700">
@@ -54435,6 +54407,314 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </trkpt>
 <trkpt lat="41.77714850" lon="-74.09024050">
 <ele>59.000</ele>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>STAIR</name>
+<desc>good,s</desc>
+<type>Line</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T18:06:20.259Z</time>
+<override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Stairmaster</label_text>
+</label>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<color>cb0017</color>
+<opacity>1.00</opacity>
+<width>1.1250</width>
+<pattern>Solid</pattern>
+</line>
+</extensions>
+<trkseg>
+<trkpt lat="41.73874162" lon="-74.18454712">
+<ele>296.000</ele>
+</trkpt>
+<trkpt lat="41.73873358" lon="-74.18452566">
+<ele>296.000</ele>
+</trkpt>
+<trkpt lat="41.73872555" lon="-74.18450421">
+<ele>296.000</ele>
+</trkpt>
+<trkpt lat="41.73871751" lon="-74.18447202">
+<ele>296.000</ele>
+</trkpt>
+<trkpt lat="41.73870948" lon="-74.18445056">
+<ele>296.000</ele>
+</trkpt>
+<trkpt lat="41.73870144" lon="-74.18441838">
+<ele>290.000</ele>
+</trkpt>
+<trkpt lat="41.73869742" lon="-74.18439692">
+<ele>290.000</ele>
+</trkpt>
+<trkpt lat="41.73869340" lon="-74.18436473">
+<ele>290.000</ele>
+</trkpt>
+<trkpt lat="41.73869340" lon="-74.18433255">
+<ele>290.000</ele>
+</trkpt>
+<trkpt lat="41.73869340" lon="-74.18430036">
+<ele>290.000</ele>
+</trkpt>
+<trkpt lat="41.73870144" lon="-74.18426817">
+<ele>290.000</ele>
+</trkpt>
+<trkpt lat="41.73870144" lon="-74.18423599">
+<ele>290.000</ele>
+</trkpt>
+<trkpt lat="41.73870546" lon="-74.18421453">
+<ele>290.000</ele>
+</trkpt>
+<trkpt lat="41.73870948" lon="-74.18417698">
+<ele>290.000</ele>
+</trkpt>
+<trkpt lat="41.73871751" lon="-74.18415552">
+<ele>290.000</ele>
+</trkpt>
+<trkpt lat="41.73872555" lon="-74.18412333">
+<ele>281.000</ele>
+</trkpt>
+<trkpt lat="41.73873760" lon="-74.18409115">
+<ele>281.000</ele>
+</trkpt>
+<trkpt lat="41.73874965" lon="-74.18405896">
+<ele>281.000</ele>
+</trkpt>
+<trkpt lat="41.73876171" lon="-74.18402677">
+<ele>281.000</ele>
+</trkpt>
+<trkpt lat="41.73876573" lon="-74.18399995">
+<ele>281.000</ele>
+</trkpt>
+<trkpt lat="41.73877376" lon="-74.18396776">
+<ele>281.000</ele>
+</trkpt>
+<trkpt lat="41.73877778" lon="-74.18393558">
+<ele>281.000</ele>
+</trkpt>
+<trkpt lat="41.73878180" lon="-74.18391412">
+<ele>281.000</ele>
+</trkpt>
+<trkpt lat="41.73878180" lon="-74.18388193">
+<ele>281.000</ele>
+</trkpt>
+<trkpt lat="41.73878180" lon="-74.18384975">
+<ele>272.000</ele>
+</trkpt>
+<trkpt lat="41.73878180" lon="-74.18381756">
+<ele>272.000</ele>
+</trkpt>
+<trkpt lat="41.73877376" lon="-74.18379074">
+<ele>272.000</ele>
+</trkpt>
+<trkpt lat="41.73876573" lon="-74.18376928">
+<ele>272.000</ele>
+</trkpt>
+<trkpt lat="41.73874965" lon="-74.18375855">
+<ele>272.000</ele>
+</trkpt>
+<trkpt lat="41.73873358" lon="-74.18374782">
+<ele>272.000</ele>
+</trkpt>
+<trkpt lat="41.73871349" lon="-74.18373709">
+<ele>272.000</ele>
+</trkpt>
+<trkpt lat="41.73869340" lon="-74.18372100">
+<ele>272.000</ele>
+</trkpt>
+<trkpt lat="41.73867331" lon="-74.18371564">
+<ele>272.000</ele>
+</trkpt>
+<trkpt lat="41.73865322" lon="-74.18371027">
+<ele>272.000</ele>
+</trkpt>
+<trkpt lat="41.73862108" lon="-74.18371027">
+<ele>258.000</ele>
+</trkpt>
+<trkpt lat="41.73859697" lon="-74.18371027">
+<ele>258.000</ele>
+</trkpt>
+<trkpt lat="41.73857287" lon="-74.18371027">
+<ele>258.000</ele>
+</trkpt>
+<trkpt lat="41.73855278" lon="-74.18371564">
+<ele>258.000</ele>
+</trkpt>
+<trkpt lat="41.73853269" lon="-74.18372637">
+<ele>258.000</ele>
+</trkpt>
+<trkpt lat="41.73850858" lon="-74.18373173">
+<ele>258.000</ele>
+</trkpt>
+<trkpt lat="41.73849251" lon="-74.18374246">
+<ele>258.000</ele>
+</trkpt>
+<trkpt lat="41.73847644" lon="-74.18375855">
+<ele>258.000</ele>
+</trkpt>
+<trkpt lat="41.73845635" lon="-74.18376392">
+<ele>258.000</ele>
+</trkpt>
+<trkpt lat="41.73843224" lon="-74.18377465">
+<ele>258.000</ele>
+</trkpt>
+<trkpt lat="41.73841215" lon="-74.18378001">
+<ele>258.000</ele>
+</trkpt>
+<trkpt lat="41.73838804" lon="-74.18378001">
+<ele>258.000</ele>
+</trkpt>
+<trkpt lat="41.73836394" lon="-74.18378001">
+<ele>258.000</ele>
+</trkpt>
+<trkpt lat="41.73834385" lon="-74.18378537">
+<ele>250.000</ele>
+</trkpt>
+<trkpt lat="41.73832376" lon="-74.18379074">
+<ele>250.000</ele>
+</trkpt>
+<trkpt lat="41.73829563" lon="-74.18379610">
+<ele>250.000</ele>
+</trkpt>
+<trkpt lat="41.73827554" lon="-74.18380147">
+<ele>250.000</ele>
+</trkpt>
+<trkpt lat="41.73825545" lon="-74.18380147">
+<ele>250.000</ele>
+</trkpt>
+<trkpt lat="41.73823134" lon="-74.18380147">
+<ele>250.000</ele>
+</trkpt>
+<trkpt lat="41.73820724" lon="-74.18380147">
+<ele>250.000</ele>
+</trkpt>
+<trkpt lat="41.73818313" lon="-74.18380147">
+<ele>250.000</ele>
+</trkpt>
+<trkpt lat="41.73815500" lon="-74.18380147">
+<ele>250.000</ele>
+</trkpt>
+<trkpt lat="41.73813090" lon="-74.18380147">
+<ele>250.000</ele>
+</trkpt>
+<trkpt lat="41.73811081" lon="-74.18380683">
+<ele>250.000</ele>
+</trkpt>
+<trkpt lat="41.73808268" lon="-74.18381756">
+<ele>250.000</ele>
+</trkpt>
+<trkpt lat="41.73806259" lon="-74.18382293">
+<ele>250.000</ele>
+</trkpt>
+<trkpt lat="41.73803848" lon="-74.18383365">
+<ele>239.000</ele>
+</trkpt>
+<trkpt lat="41.73801839" lon="-74.18383902">
+<ele>239.000</ele>
+</trkpt>
+<trkpt lat="41.73800232" lon="-74.18385511">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73798625" lon="-74.18386584">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73797018" lon="-74.18387657">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73795411" lon="-74.18389266">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73793804" lon="-74.18390339">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73791795" lon="-74.18391949">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73790187" lon="-74.18392485">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73788580" lon="-74.18394094">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73786973" lon="-74.18395167">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73785768" lon="-74.18396776">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73784161" lon="-74.18397849">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73782955" lon="-74.18399459">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73781348" lon="-74.18400532">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73780544" lon="-74.18402677">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73778937" lon="-74.18404823">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73777732" lon="-74.18406432">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73776526" lon="-74.18408042">
+<ele>248.000</ele>
+</trkpt>
+<trkpt lat="41.73774919" lon="-74.18409115">
+<ele>236.000</ele>
+</trkpt>
+<trkpt lat="41.73773714" lon="-74.18410724">
+<ele>236.000</ele>
+</trkpt>
+<trkpt lat="41.73772107" lon="-74.18412333">
+<ele>236.000</ele>
+</trkpt>
+<trkpt lat="41.73770500" lon="-74.18413943">
+<ele>236.000</ele>
+</trkpt>
+<trkpt lat="41.73768892" lon="-74.18415552">
+<ele>240.000</ele>
+</trkpt>
+<trkpt lat="41.73767687" lon="-74.18417698">
+<ele>240.000</ele>
+</trkpt>
+<trkpt lat="41.73766080" lon="-74.18418771">
+<ele>240.000</ele>
+</trkpt>
+<trkpt lat="41.73764874" lon="-74.18420380">
+<ele>240.000</ele>
+</trkpt>
+<trkpt lat="41.73763267" lon="-74.18421989">
+<ele>240.000</ele>
+</trkpt>
+<trkpt lat="41.73761660" lon="-74.18423599">
+<ele>240.000</ele>
+</trkpt>
+<trkpt lat="41.73759651" lon="-74.18424671">
+<ele>240.000</ele>
+</trkpt>
+<trkpt lat="41.73757642" lon="-74.18425744">
+<ele>240.000</ele>
+</trkpt>
+<trkpt lat="41.73756035" lon="-74.18426281">
+<ele>240.000</ele>
+</trkpt>
+<trkpt lat="41.73754026" lon="-74.18427354">
+<ele>236.000</ele>
+</trkpt>
+<trkpt lat="41.73752017" lon="-74.18427890">
+<ele>236.000</ele>
+</trkpt>
+<trkpt lat="41.73750008" lon="-74.18428427">
+<ele>236.000</ele>
+</trkpt>
+<trkpt lat="41.73747597" lon="-74.18428963">
+<ele>236.000</ele>
 </trkpt>
 </trkseg>
 </trk>
