@@ -1,2 +1,2 @@
 # lp-gpx
-gpx for the long path
+GPX for the Long Path and New York State.
