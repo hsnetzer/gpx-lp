@@ -1,1048 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.02 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
 <bounds minlat="40.85138810" minlon="-74.61120620" maxlat="41.41480230" maxlon="-73.90387814"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T21:19:26.634Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T22:48:06.647Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.40106452" lon="-74.34021176">
 </active_point>
 </extensions>
 </metadata>
-<wpt lat="40.85151671" lon="-73.96256947">
-<ele>96.000</ele>
-<time>2016-05-05T16:14:23.865Z</time>
-<name>LongPathSouth</name>
-<desc>New York Long Path south terminus at the George Washington Bridge, New Jersey.</desc>
-<sym>Trail Head</sym>
-<type>Trail Head</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-05-06T15:44:41.157Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LongPathSouth</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.39280855" lon="-74.59866843">
-<ele>330.000</ele>
-<time>2016-08-23T17:24:32.865Z</time>
-<name>MtnRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T17:58:51.467Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MtnRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.85879960" lon="-73.95958461">
-<time>2018-02-19T16:36:08.228Z</time>
-<name>LP75</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP75</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.85953577" lon="-73.95926543">
-<time>2018-02-19T16:37:02.960Z</time>
-<name>LP80</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP80</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.87886973" lon="-73.94842125">
-<time>2018-02-19T16:37:57.398Z</time>
-<name>PalisadeAve</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>PalisadeAve</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.91498133" lon="-73.93486805">
-<time>2018-02-19T16:39:15.569Z</time>
-<name>GreenBrookRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>GreenBrookRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.92464950" lon="-73.92954118">
-<time>2018-02-19T16:39:51.234Z</time>
-<name>LP592</name>
-<desc>Red Trail E to Henry Hudson Dr/Huylers Beach.</desc>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T16:41:01.614Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP592</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.94759554" lon="-73.92204441">
-<time>2018-02-19T16:41:52.386Z</time>
-<name>LP771</name>
-<desc>PIP underpass.</desc>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP771</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.97458108" lon="-73.91094275">
-<time>2018-02-19T16:42:47.412Z</time>
-<name>LP980</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP980</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.98012645" lon="-73.90996642">
-<time>2018-02-19T16:43:17.007Z</time>
-<name>LP1025</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1025</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.97481689" lon="-73.91136117">
-<time>2018-02-19T16:43:36.480Z</time>
-<name>LP983</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP983</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.98261440" lon="-73.90914567">
-<time>2018-02-19T16:44:33.617Z</time>
-<name>LP1046</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1046</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.98405754" lon="-73.90842147">
-<time>2018-02-19T16:47:21.302Z</time>
-<name>LP1057</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1057</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.98498437" lon="-73.90865214">
-<time>2018-02-19T16:47:54.734Z</time>
-<name>LP~AA</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~AA</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.98852291" lon="-73.90823372">
-<time>2018-02-19T16:48:38.760Z</time>
-<name>LP~B</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~B</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.99031141" lon="-73.90632398">
-<time>2018-02-19T16:49:02.026Z</time>
-<name>LP~Old9W~S</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~Old9W~S</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.99146578" lon="-73.90648492">
-<time>2018-02-19T16:49:19.673Z</time>
-<name>LP~Old9W~N</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~Old9W~N</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.99701786" lon="-73.90483268">
-<time>2018-02-19T16:50:11.586Z</time>
-<name>LP1159</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1159</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.99783681" lon="-73.90447058">
-<time>2018-02-19T16:50:50.529Z</time>
-<name>LP1165</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1165</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.00005179" lon="-73.90417017">
-<time>2018-02-19T16:51:22.568Z</time>
-<name>LP1184</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1184</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.00067766" lon="-73.90636958">
-<time>2018-02-19T16:51:35.361Z</time>
-<name>LP~ShoreTr</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~ShoreTr</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="40.99979067" lon="-73.90857570">
-<time>2018-02-19T16:52:03.230Z</time>
-<name>LP1210</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1210</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.00062077" lon="-73.91131155">
-<time>2018-02-19T16:53:13.677Z</time>
-<name>LudlowLn</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LudlowLn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.00846499" lon="-73.91368531">
-<time>2018-02-19T16:53:39.241Z</time>
-<name>LP~9W~A</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T16:58:54.195Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~9W~A</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.01122208" lon="-73.91333930">
-<time>2018-02-19T16:54:12.948Z</time>
-<name>Palisades</name>
-<desc>Oak Tree Road interescts 9W in Palisades, NY.</desc>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T16:54:48.961Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Palisades</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.01527725" lon="-73.91368866">
-<time>2018-02-19T16:55:12.524Z</time>
-<name>LP~9W~B</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T16:59:01.806Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~9W~B</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.01646166" lon="-73.91198546">
-<time>2018-02-19T16:55:59.621Z</time>
-<name>LP1352</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1352</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.01678061" lon="-73.90853882">
-<time>2018-02-19T16:56:27.188Z</time>
-<name>LP1370</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1370</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.02450000" lon="-73.90922010">
-<time>2018-02-19T16:56:51.750Z</time>
-<name>LP1435</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1435</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.02396780" lon="-73.91115799">
-<time>2018-02-19T16:57:08.827Z</time>
-<name>LP1424</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1424</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.04192216" lon="-73.92518058">
-<time>2018-02-19T16:58:22.446Z</time>
-<name>LP1658</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1658</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.03827076" lon="-73.92244205">
-<time>2018-02-19T16:59:22.651Z</time>
-<name>LP~9W~C</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~9W~C</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.03862819" lon="-73.92229184">
-<time>2018-02-19T16:59:37Z</time>
-<name>9W~Castle</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>9W~Castle</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.04022951" lon="-73.91889483">
-<time>2018-02-19T17:00:17.310Z</time>
-<name>CrescentRd~PiermontPl</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T17:01:02.470Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CrescentRd~PiermontPl</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.04117586" lon="-73.91901821">
-<time>2018-02-19T17:00:29.401Z</time>
-<name>AshSt~PiermontPl</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T17:01:15.951Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>AshSt~PiermontPl</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.02516323" lon="-73.90902162">
-<time>2018-02-19T17:01:48.480Z</time>
-<name>LP1440</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1440</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.02886208" lon="-73.91164750">
-<time>2018-02-19T17:02:07.315Z</time>
-<name>LP1469</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1469</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.03563972" lon="-73.91434044">
-<ele>65.000</ele>
-<time>2018-02-19T17:02:50.826Z</time>
-<name>TallmanMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T17:07:27.241Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>TallmanMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.03371841" lon="-73.91479105">
-<time>2018-02-19T17:03:51.391Z</time>
-<name>TallmanLoopS</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>TallmanLoopS</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.03641554" lon="-73.91446918">
-<time>2018-02-19T17:04:03.327Z</time>
-<name>TallmanLoopN</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>TallmanLoopN</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.03754473" lon="-73.91583979">
-<time>2018-02-19T17:05:02.909Z</time>
-<name>SparkillCreek</name>
-<sym>Bridge</sym>
-<type>Bridge</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T17:05:13.494Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SparkillCreek</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.04127537" lon="-73.91810894">
-<time>2018-02-19T17:05:36.317Z</time>
-<name>LP~JosephBClarkeTr</name>
-<sym>Trail Head</sym>
-<type>Trail Head</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~JosephBClarkeTr</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.03954005" lon="-73.91605169">
-<time>2018-02-19T17:06:24.234Z</time>
-<name>PiermontAve~TateAve</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>PiermontAve~TateAve</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.04903959" lon="-73.92693877">
-<ele>205.000</ele>
-<time>2018-02-19T17:07:05.647Z</time>
-<name>MtNebo</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T17:07:16.405Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MtNebo</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.05135842" lon="-73.93124103">
-<time>2018-02-19T17:08:43.039Z</time>
-<name>LP~Orange</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~Orange</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.05502128" lon="-73.93087089">
-<time>2018-02-19T17:09:43.902Z</time>
-<name>LP~Orange~2</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~Orange~2</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.06150183" lon="-73.93872976">
-<time>2018-02-19T17:10:10.447Z</time>
-<name>LP1884</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1884</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.06225298" lon="-73.93943250">
-<time>2018-02-19T17:10:29.240Z</time>
-<name>ClauslandMtnRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ClauslandMtnRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.06742648" lon="-73.94265301">
-<time>2018-02-19T17:56:01.329Z</time>
-<name>LP1949</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T17:57:07.095Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1949</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.06973654" lon="-73.94080765">
-<time>2018-02-19T17:56:53.595Z</time>
-<name>LP1969</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP1969</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.07454721" lon="-73.93603332">
-<time>2018-02-19T18:19:43.073Z</time>
-<name>LP2028</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP2028</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.07356481" lon="-73.93547006">
-<time>2018-02-19T18:20:01.653Z</time>
-<name>LP2021</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP2021</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.07656068" lon="-73.92981596">
-<time>2018-02-19T18:20:20.888Z</time>
-<name>TweedBvld</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>TweedBvld</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.08376971" lon="-73.93200464">
-<time>2018-02-19T18:20:52.088Z</time>
-<name>LP2141</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP2141</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.08621312" lon="-73.93369712">
-<time>2018-02-19T18:21:24.052Z</time>
-<name>BradleyHillRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T18:21:35.971Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BradleyHillRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.08934641" lon="-73.93517501">
-<time>2018-02-19T18:21:51.774Z</time>
-<name>LP~White</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~White</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.09115853" lon="-73.93594749">
-<time>2018-02-19T18:22:20.478Z</time>
-<name>LP~WaldronRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T18:22:43.160Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~WaldronRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.09440927" lon="-73.93610037">
-<time>2018-02-19T18:22:59.150Z</time>
-<name>Route59</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Route59</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.09757463" lon="-73.93623449">
-<time>2018-02-19T18:23:39.086Z</time>
-<name>MountainviewAve</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MountainviewAve</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.10894633" lon="-73.93491484">
-<time>2018-02-19T18:25:07.991Z</time>
-<name>ChristianHeraldRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ChristianHeraldRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.10919992" lon="-73.92717130">
-<time>2018-02-19T18:25:54.744Z</time>
-<name>LP~9W~D</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~9W~D</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.11475010" lon="-73.92681457">
-<time>2018-02-19T18:26:30.718Z</time>
-<name>LP~9W~E</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~9W~E</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.12092048" lon="-73.91962625">
-<time>2018-02-19T18:26:57.846Z</time>
-<name>LP~Yellow~A</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T18:27:59.856Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~Yellow~A</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.12092048" lon="-73.91827978">
-<ele>211.000</ele>
-<time>2018-02-19T18:27:36.221Z</time>
-<name>HookMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T18:29:21.476Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HookMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.12271956" lon="-73.91337402">
-<time>2018-02-19T18:28:14.380Z</time>
-<name>LP~Yellow~B</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~Yellow~B</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.13803100" lon="-73.91134224">
-<time>2018-02-19T18:29:45.593Z</time>
-<name>LP2693</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP2693</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.14217156" lon="-73.91116522">
-<time>2018-02-19T18:30:12.628Z</time>
-<name>LP2723</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP2723</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.14376526" lon="-73.91238294">
-<time>2018-02-19T18:30:37.307Z</time>
-<name>LandingRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LandingRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.17456919" lon="-73.94451044">
-<time>2018-02-19T18:32:07.850Z</time>
-<name>LP~9W~F</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~9W~F</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.17336435" lon="-73.95531170">
-<time>2018-02-19T18:32:42.856Z</time>
-<name>Scratchup~LongClove</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T18:33:16.350Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Scratchup~LongClove</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.17744795" lon="-73.95878113">
-<time>2018-02-19T18:33:36.598Z</time>
-<name>LP~Old304~S</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~Old304~S</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.17690889" lon="-73.96293588">
-<time>2018-02-19T18:34:17.221Z</time>
-<name>LP~Old304~N</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~Old304~N</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.18320711" lon="-73.96171279">
-<time>2018-02-19T18:34:53.288Z</time>
-<name>LP3231</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP3231</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.18766293" lon="-73.96539412">
-<time>2018-02-19T18:36:19.836Z</time>
-<name>HighTor</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HighTor</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.19640953" lon="-73.98797832">
-<ele>190.000</ele>
-<time>2018-02-19T18:36:51.474Z</time>
-<name>LittleTor</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T18:37:01.286Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LittleTor</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.19503187" lon="-73.98727022">
-<time>2018-02-19T18:37:11.770Z</time>
-<name>LP~LittleTor</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~LittleTor</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.19657971" lon="-73.99108968">
-<time>2018-02-19T18:37:39.928Z</time>
-<name>LP~HighTorWhite</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~HighTorWhite</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.19218124" lon="-74.00468044">
-<time>2018-02-19T18:38:06.214Z</time>
-<name>CentralHighway</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CentralHighway</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.18987649" lon="-74.01524968">
-<time>2018-02-19T18:50:06.732Z</time>
-<name>SMtnServiceRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SMtnServiceRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.18633672" lon="-74.03631575">
-<time>2018-02-19T18:51:45.168Z</time>
-<name>MtIvyNY</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MtIvyNY</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.18556471" lon="-74.03984822">
-<ele>136.000</ele>
-<time>2018-02-19T18:53:16.959Z</time>
-<name>MtIvyDiner</name>
-<sym>Restaurant</sym>
-<type>Restaurant</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T18:53:30.141Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MtIvyDiner</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.18619691" lon="-74.03864391">
-<time>2018-02-19T18:55:06.034Z</time>
-<name>LP~US202~N</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP~US202~N</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.21406423" lon="-74.04952831">
-<time>2018-02-19T18:55:45.003Z</time>
-<name>LP4005</name>
-<sym>Tall Tower</sym>
-<type>Power Line</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP4005</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.20914234" lon="-74.04309369">
-<time>2018-02-19T18:56:44.642Z</time>
-<name>LP3937</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP3937</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.20918690" lon="-74.04407002">
-<time>2018-02-19T18:57:12.332Z</time>
-<name>LP3949</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP3949</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.21029284" lon="-74.04434897">
-<time>2018-02-19T18:57:35.186Z</time>
-<name>LP3950</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LP3950</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.21824654" lon="-74.05076615">
-<time>2018-02-19T18:58:51.267Z</time>
-<name>HorseChockBk</name>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HorseChockBk</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.21821919" lon="-74.04876226">
-<time>2018-02-19T19:00:22.007Z</time>
-<name>CallHollowRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CallHollowRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.32844369" lon="-74.04305720">
-<ele>350.000</ele>
-<time>2018-02-19T19:03:21.174Z</time>
-<name>LongMtn</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T19:03:30.565Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>LongMtn</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.32871866" lon="-74.07818877">
-<time>2018-02-19T19:04:37.785Z</time>
-<name>293</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T19:04:48.206Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>293</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.32543617" lon="-74.11015534">
-<time>2018-02-19T19:06:02.322Z</time>
-<name>Estrada~AbramsRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Estrada~AbramsRd</label_text>
-</label>
-</extensions>
-</wpt>
 <wpt lat="41.39176346" lon="-74.11641293">
+<ele>509.800</ele>
 <time>2018-02-19T19:06:59.590Z</time>
 <name>SchunnemunkMtn</name>
 <sym>Summit</sym>
@@ -1054,10 +21,11 @@
 </extensions>
 </wpt>
 <wpt lat="41.38379671" lon="-74.12635052">
-<time>2018-02-19T19:07:34.097Z</time>
+<ele>488.100</ele>
+<time>2018-02-19T19:07:34.096Z</time>
 <name>WRidge~Jessup</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WRidge~Jessup</label_text>
@@ -1065,6 +33,7 @@
 </extensions>
 </wpt>
 <wpt lat="41.38208972" lon="-74.12451589">
+<ele>457.600</ele>
 <time>2018-02-19T19:08:31.427Z</time>
 <name>LP6836</name>
 <sym>Water Source</sym>
@@ -1075,84 +44,8 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.33235481" lon="-74.11366903">
-<time>2018-02-19T19:09:49.411Z</time>
-<name>StoneGateRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>StoneGateRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.33521343" lon="-74.11455416">
-<time>2018-02-19T19:10:12.858Z</time>
-<name>Abrams~SmithCloveRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Abrams~SmithCloveRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.33554902" lon="-74.11283084">
-<time>2018-02-19T19:23:53.950Z</time>
-<name>GreenwichAve</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>GreenwichAve</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.33987208" lon="-74.10505110">
-<time>2018-02-19T19:24:18.239Z</time>
-<name>SmithClove~PineHill</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SmithClove~PineHill</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.34324379" lon="-74.11540711">
-<time>2018-02-19T19:25:55.022Z</time>
-<name>SkylineRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SkylineRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.34450689" lon="-74.12077622">
-<time>2018-02-19T19:31:01.829Z</time>
-<name>ParkAve~PineHillRd</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>ParkAve~PineHillRd</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="41.36328729" lon="-74.10524757">
-<time>2018-02-19T19:34:08.529Z</time>
-<name>NY32~FallsLn</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>NY32~FallsLn</label_text>
-</label>
-</extensions>
-</wpt>
 <wpt lat="41.37360635" lon="-74.11760987">
+<ele>422.400</ele>
 <time>2018-02-19T19:35:21.577Z</time>
 <name>HighPoint</name>
 <sym>Summit</sym>
@@ -1163,90 +56,612 @@
 </label>
 </extensions>
 </wpt>
+<wpt lat="41.32844369" lon="-74.04305720">
+<ele>353.400</ele>
+<time>2018-02-19T19:03:21.174Z</time>
+<name>LongMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LongMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.39280855" lon="-74.59866843">
+<ele>327.300</ele>
+<time>2016-08-23T17:24:32.865Z</time>
+<name>MtnRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MtnRd</label_text>
+</label>
+</extensions>
+</wpt>
 <wpt lat="41.35605469" lon="-74.17351783">
+<ele>300.800</ele>
 <time>2018-02-19T19:41:21.655Z</time>
 <name>LP~SevenSpringsRd~S</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T19:42:37.366Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP~SevenSpringsRd~S</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="41.35542415" lon="-74.17774768">
+<ele>275.200</ele>
 <time>2018-02-19T19:41:52.971Z</time>
 <name>SevenSpringsMtnRd</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T19:42:25.852Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SevenSpringsMtnRd</label_text>
 </label>
 </extensions>
 </wpt>
+<wpt lat="41.32871866" lon="-74.07818877">
+<ele>267.600</ele>
+<time>2018-02-19T19:04:37.785Z</time>
+<name>293</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>293</label_text>
+</label>
+</extensions>
+</wpt>
 <wpt lat="41.35040384" lon="-74.18191047">
+<ele>261.600</ele>
 <time>2018-02-19T19:43:07.668Z</time>
 <name>LP~SevenSpringsRd~N</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP~SevenSpringsRd~N</label_text>
 </label>
 </extensions>
 </wpt>
+<wpt lat="41.18766293" lon="-73.96539412">
+<ele>247.400</ele>
+<time>2018-02-19T18:36:19.836Z</time>
+<name>HighTor</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HighTor</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.20914234" lon="-74.04309369">
+<ele>231.200</ele>
+<time>2018-02-19T18:56:44.642Z</time>
+<name>LP3937</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP3937</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.21029284" lon="-74.04434897">
+<ele>229.300</ele>
+<time>2018-02-19T18:57:35.186Z</time>
+<name>LP3950</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP3950</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.20918690" lon="-74.04407002">
+<ele>227.300</ele>
+<time>2018-02-19T18:57:12.332Z</time>
+<name>LP3949</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP3949</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.12092048" lon="-73.91827978">
+<ele>221.200</ele>
+<time>2018-02-19T18:27:36.221Z</time>
+<name>HookMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HookMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.04903959" lon="-73.92693877">
+<ele>205.800</ele>
+<time>2018-02-19T17:07:05.647Z</time>
+<name>MtNebo</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MtNebo</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.19640953" lon="-73.98797832">
+<ele>201.200</ele>
+<time>2018-02-19T18:36:51.474Z</time>
+<name>LittleTor</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LittleTor</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.12092048" lon="-73.91962625">
+<ele>196.400</ele>
+<time>2018-02-19T18:26:57.846Z</time>
+<name>LP~Yellow~A</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~Yellow~A</label_text>
+</label>
+</extensions>
+</wpt>
 <wpt lat="41.35047660" lon="-74.19225843">
+<ele>187.300</ele>
 <time>2018-02-19T19:44:04.692Z</time>
 <name>NY208</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>NY208</label_text>
 </label>
 </extensions>
 </wpt>
+<wpt lat="41.18987649" lon="-74.01524968">
+<ele>186.800</ele>
+<time>2018-02-19T18:50:06.732Z</time>
+<name>SMtnServiceRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SMtnServiceRd</label_text>
+</label>
+</extensions>
+</wpt>
 <wpt lat="41.34748780" lon="-74.20026147">
+<ele>186.000</ele>
 <time>2018-02-19T20:02:12.119Z</time>
 <name>US6Overpass</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>US6Overpass</label_text>
 </label>
 </extensions>
 </wpt>
+<wpt lat="41.13803100" lon="-73.91134224">
+<ele>180.300</ele>
+<time>2018-02-19T18:29:45.593Z</time>
+<name>LP2693</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP2693</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.38658475" lon="-74.45325882">
+<ele>177.400</ele>
+<time>2018-02-19T21:17:04.732Z</time>
+<name>RidgeburyHillRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>RidgeburyHillRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.05502128" lon="-73.93087089">
+<ele>176.200</ele>
+<time>2018-02-19T17:09:43.902Z</time>
+<name>LP~Orange~2</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~Orange~2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.33987208" lon="-74.10505110">
+<ele>175.300</ele>
+<time>2018-02-19T19:24:18.239Z</time>
+<name>SmithClove~PineHill</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SmithClove~PineHill</label_text>
+</label>
+</extensions>
+</wpt>
 <wpt lat="41.34582532" lon="-74.21244943">
+<ele>174.400</ele>
 <time>2018-02-19T20:03:52.516Z</time>
 <name>US6Underpass</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>US6Underpass</label_text>
 </label>
 </extensions>
 </wpt>
+<wpt lat="41.19218124" lon="-74.00468044">
+<ele>174.200</ele>
+<time>2018-02-19T18:38:06.214Z</time>
+<name>CentralHighway</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CentralHighway</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.34324379" lon="-74.11540711">
+<ele>173.300</ele>
+<time>2018-02-19T19:25:55.022Z</time>
+<name>SkylineRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SkylineRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.21406423" lon="-74.04952831">
+<ele>171.700</ele>
+<time>2018-02-19T18:55:45.003Z</time>
+<name>LP4005</name>
+<sym>Tall Tower</sym>
+<type>Tall Tower</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP4005</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.07656068" lon="-73.92981596">
+<ele>163.000</ele>
+<time>2018-02-19T18:20:20.888Z</time>
+<name>TweedBvld</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TweedBvld</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.19503187" lon="-73.98727022">
+<ele>163.000</ele>
+<time>2018-02-19T18:37:11.770Z</time>
+<name>LP~LittleTor</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~LittleTor</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.19657971" lon="-73.99108968">
+<ele>160.200</ele>
+<time>2018-02-19T18:37:39.928Z</time>
+<name>LP~HighTorWhite</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~HighTorWhite</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.98012645" lon="-73.90996642">
+<ele>160.100</ele>
+<time>2018-02-19T16:43:17.007Z</time>
+<name>LP1025</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP1025</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.05135842" lon="-73.93124103">
+<ele>158.700</ele>
+<time>2018-02-19T17:08:43.039Z</time>
+<name>LP~Orange</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~Orange</label_text>
+</label>
+</extensions>
+</wpt>
 <wpt lat="41.35087428" lon="-74.21571099">
+<ele>158.600</ele>
 <time>2018-02-19T20:04:22.559Z</time>
 <name>CraigvilleRd</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CraigvilleRd</label_text>
 </label>
 </extensions>
 </wpt>
+<wpt lat="40.99031141" lon="-73.90632398">
+<ele>158.500</ele>
+<time>2018-02-19T16:49:02.026Z</time>
+<name>LP~Old9W~S</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~Old9W~S</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.08376971" lon="-73.93200464">
+<ele>158.100</ele>
+<time>2018-02-19T18:20:52.088Z</time>
+<name>LP2141</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP2141</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.98405754" lon="-73.90842147">
+<ele>157.800</ele>
+<time>2018-02-19T16:47:21.302Z</time>
+<name>LP1057</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP1057</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.97458108" lon="-73.91094275">
+<ele>157.600</ele>
+<time>2018-02-19T16:42:47.412Z</time>
+<name>LP980</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP980</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.98852291" lon="-73.90823372">
+<ele>157.600</ele>
+<time>2018-02-19T16:48:38.760Z</time>
+<name>LP~B</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~B</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.33554902" lon="-74.11283084">
+<ele>157.500</ele>
+<time>2018-02-19T19:23:53.950Z</time>
+<name>GreenwichAve</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>GreenwichAve</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.97481689" lon="-73.91136117">
+<ele>156.900</ele>
+<time>2018-02-19T16:43:36.480Z</time>
+<name>LP983</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP983</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.98498437" lon="-73.90865214">
+<ele>155.500</ele>
+<time>2018-02-19T16:47:54.734Z</time>
+<name>LP~AA</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~AA</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.99146578" lon="-73.90648492">
+<ele>155.300</ele>
+<time>2018-02-19T16:49:19.673Z</time>
+<name>LP~Old9W~N</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~Old9W~N</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.32543617" lon="-74.11015534">
+<ele>154.600</ele>
+<time>2018-02-19T19:06:02.322Z</time>
+<name>Estrada~AbramsRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Estrada~AbramsRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.12271956" lon="-73.91337402">
+<ele>153.700</ele>
+<time>2018-02-19T18:28:14.380Z</time>
+<name>LP~Yellow~B</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~Yellow~B</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.21824654" lon="-74.05076615">
+<ele>153.700</ele>
+<time>2018-02-19T18:58:51.267Z</time>
+<name>HorseChockBk</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HorseChockBk</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.39831183" lon="-74.46097822">
+<ele>152.500</ele>
+<time>2018-02-19T21:17:58.619Z</time>
+<name>McBride~US6</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>McBride~US6</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.33521343" lon="-74.11455416">
+<ele>151.800</ele>
+<time>2018-02-19T19:10:12.858Z</time>
+<name>Abrams~SmithCloveRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Abrams~SmithCloveRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.39511669" lon="-74.46382136">
+<ele>150.300</ele>
+<time>2018-02-19T21:17:21.853Z</time>
+<name>RidgeburyHillRd~US6</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>RidgeburyHillRd~US6</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.33235481" lon="-74.11366903">
+<ele>148.800</ele>
+<time>2018-02-19T19:09:49.411Z</time>
+<name>StoneGateRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>StoneGateRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.99701786" lon="-73.90483268">
+<ele>146.900</ele>
+<time>2018-02-19T16:50:11.586Z</time>
+<name>LP1159</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP1159</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.34450689" lon="-74.12077622">
+<ele>144.800</ele>
+<time>2018-02-19T19:31:01.829Z</time>
+<name>ParkAve~PineHillRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ParkAve~PineHillRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.21821919" lon="-74.04876226">
+<ele>143.500</ele>
+<time>2018-02-19T19:00:22.007Z</time>
+<name>CallHollowRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CallHollowRd</label_text>
+</label>
+</extensions>
+</wpt>
 <wpt lat="41.35904314" lon="-74.23980260">
+<ele>141.500</ele>
 <time>2018-02-19T20:04:52.693Z</time>
 <name>GreycourtRdUnderpass</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>GreycourtRdUnderpass</label_text>
@@ -1254,74 +669,359 @@
 </extensions>
 </wpt>
 <wpt lat="41.36401529" lon="-74.27186706">
+<ele>141.000</ele>
 <time>2018-02-19T20:05:48.265Z</time>
 <name>HighStreetUnderpass</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HighStreetUnderpass</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.37987795" lon="-74.29648706">
-<time>2018-02-19T20:06:23.686Z</time>
-<name>OldChesterRd</name>
+<wpt lat="41.18633672" lon="-74.03631575">
+<ele>138.300</ele>
+<time>2018-02-19T18:51:45.168Z</time>
+<name>MtIvyNY</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>OldChesterRd</label_text>
+<label_text>MtIvyNY</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.38410612" lon="-74.30751094">
-<time>2018-02-19T20:06:42.227Z</time>
-<name>DuckCedarRd</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="40.99783681" lon="-73.90447058">
+<ele>136.700</ele>
+<time>2018-02-19T16:50:50.529Z</time>
+<name>LP1165</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>DuckCedarRd</label_text>
+<label_text>LP1165</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.40435025" lon="-74.40435142">
+<ele>136.500</ele>
+<time>2018-02-19T21:14:29.098Z</time>
+<name>Ridgebury~LowerRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Ridgebury~LowerRd</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="41.39392095" lon="-74.32269895">
+<ele>136.400</ele>
 <time>2018-02-19T20:07:24.219Z</time>
 <name>SouthStreet</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SouthStreet</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.40211566" lon="-74.32426536">
-<time>2018-02-19T20:07:46.921Z</time>
-<name>Goshen</name>
-<desc>Church and Main.</desc>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="41.18320711" lon="-73.96171279">
+<ele>136.300</ele>
+<time>2018-02-19T18:34:53.288Z</time>
+<name>LP3231</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T20:16:36.010Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Goshen</label_text>
+<label_text>LP3231</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.18619691" lon="-74.03864391">
+<ele>134.100</ele>
+<time>2018-02-19T18:55:06.034Z</time>
+<name>LP~US202~N</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~US202~N</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.38410612" lon="-74.30751094">
+<ele>133.700</ele>
+<time>2018-02-19T20:06:42.227Z</time>
+<name>DuckCedarRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>DuckCedarRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.37987795" lon="-74.29648706">
+<ele>132.200</ele>
+<time>2018-02-19T20:06:23.686Z</time>
+<name>OldChesterRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>OldChesterRd</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="41.39936604" lon="-74.32263457">
+<ele>132.200</ele>
 <time>2018-02-19T20:08:29.084Z</time>
 <name>GreenSt</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>GreenSt</label_text>
 </label>
 </extensions>
 </wpt>
+<wpt lat="41.18556471" lon="-74.03984822">
+<ele>131.700</ele>
+<time>2018-02-19T18:53:16.959Z</time>
+<name>MtIvyDiner</name>
+<sym>Restaurant</sym>
+<type>Restaurant</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MtIvyDiner</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.40632726" lon="-74.40175236">
+<ele>131.500</ele>
+<time>2018-02-19T21:13:47.450Z</time>
+<name>US6</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>US6</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.40211566" lon="-74.32426536">
+<ele>130.800</ele>
+<time>2018-02-19T20:07:46.921Z</time>
+<name>Goshen</name>
+<desc>Church and Main.</desc>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Goshen</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.14217156" lon="-73.91116522">
+<ele>130.600</ele>
+<time>2018-02-19T18:30:12.628Z</time>
+<name>LP2723</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP2723</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.41220744" lon="-74.39408393">
+<ele>130.000</ele>
+<time>2018-02-19T21:13:14.732Z</time>
+<name>EchoLake~GolfLinks</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>EchoLake~GolfLinks</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.40044855" lon="-74.33324338">
+<ele>129.800</ele>
+<time>2018-02-19T20:34:57.127Z</time>
+<name>GoshenW</name>
+<desc>LP rejoins the Orange Heritage Trailway outside of Goshen.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>GoshenW</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.40104230" lon="-74.34021042">
+<ele>129.700</ele>
+<time>2018-02-19T21:10:51.233Z</time>
+<name>NY17Overpass</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>NY17Overpass</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.94759554" lon="-73.92204441">
+<ele>129.100</ele>
+<time>2018-02-19T16:41:52.386Z</time>
+<name>LP771</name>
+<desc>PIP underpass.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP771</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.36328729" lon="-74.10524757">
+<ele>127.800</ele>
+<time>2018-02-19T19:34:08.529Z</time>
+<name>NY32~FallsLn</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>NY32~FallsLn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.92464950" lon="-73.92954118">
+<ele>127.500</ele>
+<time>2018-02-19T16:39:51.234Z</time>
+<name>LP592</name>
+<desc>Red Trail E to Henry Hudson Dr/Huylers Beach.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP592</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.10894633" lon="-73.93491484">
+<ele>126.100</ele>
+<time>2018-02-19T18:25:07.991Z</time>
+<name>ChristianHeraldRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ChristianHeraldRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.08621312" lon="-73.93369712">
+<ele>124.400</ele>
+<time>2018-02-19T18:21:24.052Z</time>
+<name>BradleyHillRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BradleyHillRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.08934641" lon="-73.93517501">
+<ele>122.600</ele>
+<time>2018-02-19T18:21:51.774Z</time>
+<name>LP~White</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~White</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.98261440" lon="-73.90914567">
+<ele>118.100</ele>
+<time>2018-02-19T16:44:33.617Z</time>
+<name>LP1046</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP1046</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.07356481" lon="-73.93547006">
+<ele>117.600</ele>
+<time>2018-02-19T18:20:01.653Z</time>
+<name>LP2021</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP2021</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.00062077" lon="-73.91131155">
+<ele>117.500</ele>
+<time>2018-02-19T16:53:13.677Z</time>
+<name>LudlowLn</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LudlowLn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="40.91498133" lon="-73.93486805">
+<ele>116.800</ele>
+<time>2018-02-19T16:39:15.569Z</time>
+<name>GreenBrookRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>GreenBrookRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.40125234" lon="-74.35902880">
+<ele>116.300</ele>
+<time>2018-02-19T21:11:37.340Z</time>
+<name>SixAndOneHalfStation</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SixAndOneHalfStation</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.41176221" lon="-74.37404649">
+<ele>115.500</ele>
+<time>2018-02-19T21:12:14.230Z</time>
+<name>EchoLake~HartleyRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>EchoLake~HartleyRd</label_text>
+</label>
+</extensions>
+</wpt>
 <wpt lat="41.41210444" lon="-74.37776068">
+<ele>109.900</ele>
 <time>2018-02-19T20:09:40.205Z</time>
 <name>Wallkill</name>
 <sym>Bridge</sym>
@@ -1332,117 +1032,509 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.40044855" lon="-74.33324338">
-<time>2018-02-19T20:34:57.127Z</time>
-<name>GoshenW</name>
-<desc>LP rejoins the Orange Heritage Trailway outside of Goshen.</desc>
+<wpt lat="41.11475010" lon="-73.92681457">
+<ele>103.400</ele>
+<time>2018-02-19T18:26:30.718Z</time>
+<name>LP~9W~E</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~9W~E</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.06973654" lon="-73.94080765">
+<ele>100.900</ele>
+<time>2018-02-19T17:56:53.595Z</time>
+<name>LP1969</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T21:09:40.808Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>GoshenW</label_text>
+<label_text>LP1969</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.40104230" lon="-74.34021042">
-<time>2018-02-19T21:10:51.233Z</time>
-<name>NY17Overpass</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="41.07454721" lon="-73.93603332">
+<ele>100.500</ele>
+<time>2018-02-19T18:19:43.073Z</time>
+<name>LP2028</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>NY17Overpass</label_text>
+<label_text>LP2028</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.40125234" lon="-74.35902880">
-<time>2018-02-19T21:11:37.340Z</time>
-<name>SixAndOneHalfStation</name>
+<wpt lat="40.87886973" lon="-73.94842125">
+<ele>99.400</ele>
+<time>2018-02-19T16:37:57.398Z</time>
+<name>PalisadeAve</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SixAndOneHalfStation</label_text>
+<label_text>PalisadeAve</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.41176221" lon="-74.37404649">
-<time>2018-02-19T21:12:14.230Z</time>
-<name>EchoLake~HartleyRd</name>
+<wpt lat="41.09757463" lon="-73.93623449">
+<ele>98.200</ele>
+<time>2018-02-19T18:23:39.086Z</time>
+<name>MountainviewAve</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T21:12:53.186Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>EchoLake~HartleyRd</label_text>
+<label_text>MountainviewAve</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.41220744" lon="-74.39408393">
-<time>2018-02-19T21:13:14.732Z</time>
-<name>EchoLake~GolfLinks</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="40.85953577" lon="-73.95926543">
+<ele>95.300</ele>
+<time>2018-02-19T16:37:02.960Z</time>
+<name>LP80</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>EchoLake~GolfLinks</label_text>
+<label_text>LP80</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.40632726" lon="-74.40175236">
-<time>2018-02-19T21:13:47.450Z</time>
-<name>US6</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="40.85879960" lon="-73.95958461">
+<ele>93.300</ele>
+<time>2018-02-19T16:36:08.228Z</time>
+<name>LP75</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>US6</label_text>
+<label_text>LP75</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.40435025" lon="-74.40435142">
-<time>2018-02-19T21:14:29.098Z</time>
-<name>Ridgebury~LowerRd</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="40.99979067" lon="-73.90857570">
+<ele>89.100</ele>
+<time>2018-02-19T16:52:03.230Z</time>
+<name>LP1210</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Ridgebury~LowerRd</label_text>
+<label_text>LP1210</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.38658475" lon="-74.45325882">
-<time>2018-02-19T21:17:04.732Z</time>
-<name>RidgeburyHillRd</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="40.85151671" lon="-73.96256947">
+<ele>88.900</ele>
+<time>2016-05-05T16:14:23.865Z</time>
+<name>LongPathSouth</name>
+<desc>New York Long Path south terminus at the George Washington Bridge, New Jersey.</desc>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T21:17:43.293Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>RidgeburyHillRd</label_text>
+<label_text>LongPathSouth</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.39511669" lon="-74.46382136">
-<time>2018-02-19T21:17:21.853Z</time>
-<name>RidgeburyHillRd~US6</name>
+<wpt lat="41.06225298" lon="-73.93943250">
+<ele>88.900</ele>
+<time>2018-02-19T17:10:29.240Z</time>
+<name>ClauslandMtnRd</name>
 <sym>Car</sym>
-<type>Road</type>
+<type>Car</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>RidgeburyHillRd~US6</label_text>
+<label_text>ClauslandMtnRd</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.39831183" lon="-74.46097822">
-<time>2018-02-19T21:17:58.619Z</time>
-<name>McBride~US6</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="41.00005179" lon="-73.90417017">
+<ele>87.900</ele>
+<time>2018-02-19T16:51:22.568Z</time>
+<name>LP1184</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>McBride~US6</label_text>
+<label_text>LP1184</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.06742648" lon="-73.94265301">
+<ele>87.000</ele>
+<time>2018-02-19T17:56:01.329Z</time>
+<name>LP1949</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP1949</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.09115853" lon="-73.93594749">
+<ele>86.300</ele>
+<time>2018-02-19T18:22:20.478Z</time>
+<name>LP~WaldronRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~WaldronRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.10919992" lon="-73.92717130">
+<ele>85.400</ele>
+<time>2018-02-19T18:25:54.744Z</time>
+<name>LP~9W~D</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~9W~D</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.04192216" lon="-73.92518058">
+<ele>79.700</ele>
+<time>2018-02-19T16:58:22.446Z</time>
+<name>LP1658</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP1658</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.17456919" lon="-73.94451044">
+<ele>74.400</ele>
+<time>2018-02-19T18:32:07.850Z</time>
+<name>LP~9W~F</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~9W~F</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.00067766" lon="-73.90636958">
+<ele>73.300</ele>
+<time>2018-02-19T16:51:35.361Z</time>
+<name>LP~ShoreTr</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~ShoreTr</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.06150183" lon="-73.93872976">
+<ele>72.100</ele>
+<time>2018-02-19T17:10:10.447Z</time>
+<name>LP1884</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP1884</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.09440927" lon="-73.93610037">
+<ele>71.800</ele>
+<time>2018-02-19T18:22:59.150Z</time>
+<name>Route59</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Route59</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.14376526" lon="-73.91238294">
+<ele>68.300</ele>
+<time>2018-02-19T18:30:37.307Z</time>
+<name>LandingRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LandingRd</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.03862819" lon="-73.92229184">
+<ele>67.200</ele>
+<time>2018-02-19T16:59:37Z</time>
+<name>9W~Castle</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>9W~Castle</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.00846499" lon="-73.91368531">
+<ele>63.500</ele>
+<time>2018-02-19T16:53:39.241Z</time>
+<name>LP~9W~A</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~9W~A</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.17744795" lon="-73.95878113">
+<ele>63.300</ele>
+<time>2018-02-19T18:33:36.598Z</time>
+<name>LP~Old304~S</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~Old304~S</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.03827076" lon="-73.92244205">
+<ele>62.900</ele>
+<time>2018-02-19T16:59:22.651Z</time>
+<name>LP~9W~C</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~9W~C</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.01122208" lon="-73.91333930">
+<ele>59.500</ele>
+<time>2018-02-19T16:54:12.948Z</time>
+<name>Palisades</name>
+<desc>Oak Tree Road interescts 9W in Palisades, NY.</desc>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Palisades</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.01527725" lon="-73.91368866">
+<ele>59.200</ele>
+<time>2018-02-19T16:55:12.524Z</time>
+<name>LP~9W~B</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~9W~B</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.02396780" lon="-73.91115799">
+<ele>58.400</ele>
+<time>2018-02-19T16:57:08.827Z</time>
+<name>LP1424</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP1424</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.01646166" lon="-73.91198546">
+<ele>58.100</ele>
+<time>2018-02-19T16:55:59.621Z</time>
+<name>LP1352</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP1352</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.01678061" lon="-73.90853882">
+<ele>58.100</ele>
+<time>2018-02-19T16:56:27.188Z</time>
+<name>LP1370</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP1370</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.17690889" lon="-73.96293588">
+<ele>57.100</ele>
+<time>2018-02-19T18:34:17.221Z</time>
+<name>LP~Old304~N</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~Old304~N</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.02450000" lon="-73.90922010">
+<ele>54.500</ele>
+<time>2018-02-19T16:56:51.750Z</time>
+<name>LP1435</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP1435</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.03563972" lon="-73.91434044">
+<ele>52.300</ele>
+<time>2018-02-19T17:02:50.826Z</time>
+<name>TallmanMtn</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TallmanMtn</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.02516323" lon="-73.90902162">
+<ele>51.900</ele>
+<time>2018-02-19T17:01:48.480Z</time>
+<name>LP1440</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP1440</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.03641554" lon="-73.91446918">
+<ele>51.100</ele>
+<time>2018-02-19T17:04:03.327Z</time>
+<name>TallmanLoopN</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TallmanLoopN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.04022951" lon="-73.91889483">
+<ele>51.000</ele>
+<time>2018-02-19T17:00:17.310Z</time>
+<name>CrescentRd~PiermontPl</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CrescentRd~PiermontPl</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.03371841" lon="-73.91479105">
+<ele>49.900</ele>
+<time>2018-02-19T17:03:51.391Z</time>
+<name>TallmanLoopS</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TallmanLoopS</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.04117586" lon="-73.91901821">
+<ele>47.700</ele>
+<time>2018-02-19T17:00:29.401Z</time>
+<name>AshSt~PiermontPl</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>AshSt~PiermontPl</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.02886208" lon="-73.91164750">
+<ele>44.900</ele>
+<time>2018-02-19T17:02:07.315Z</time>
+<name>LP1469</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP1469</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.17336435" lon="-73.95531170">
+<ele>36.900</ele>
+<time>2018-02-19T18:32:42.856Z</time>
+<name>Scratchup~LongClove</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Scratchup~LongClove</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.04127537" lon="-73.91810894">
+<ele>36.600</ele>
+<time>2018-02-19T17:05:36.317Z</time>
+<name>LP~JosephBClarkeTr</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LP~JosephBClarkeTr</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.03954005" lon="-73.91605169">
+<ele>4.000</ele>
+<time>2018-02-19T17:06:24.234Z</time>
+<name>PiermontAve~TateAve</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>PiermontAve~TateAve</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.03754473" lon="-73.91583979">
+<ele>0.700</ele>
+<time>2018-02-19T17:05:02.909Z</time>
+<name>SparkillCreek</name>
+<sym>Bridge</sym>
+<type>Bridge</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SparkillCreek</label_text>
 </label>
 </extensions>
 </wpt>
