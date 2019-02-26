@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
-<bounds minlat="40.85138810" minlon="-74.04997760" maxlat="41.21821360" maxlon="-73.90387814"/>
+<bounds minlat="40.85138810" minlon="-74.05072027" maxlat="41.21821360" maxlon="-73.90387814"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T16:37:26.708Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.40106452" lon="-74.34021176">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T18:28:11.407Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.21785059" lon="-74.05072027">
 </active_point>
 </extensions>
 </metadata>
@@ -1032,12 +1032,25 @@
 </label>
 </extensions>
 </wpt>
+<wpt lat="41.21785059" lon="-74.05072027">
+<ele>143.500</ele>
+<time>2018-02-19T19:00:22.007Z</time>
+<name>CallHollowRd</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T16:31:22.239Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CallHollowRd</label_text>
+</label>
+</extensions>
+</wpt>
 <trk>
 <name>LP</name>
 <desc>bad,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T16:32:31.475Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T18:28:11.407Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">40e0d0</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Long Path</label_text>
@@ -5064,7 +5077,7 @@
 <trkpt lat="41.21821360" lon="-74.04875790">
 <ele>154.000</ele>
 </trkpt>
-<trkpt lat="41.21802041" lon="-74.04983924">
+<trkpt lat="41.21787459" lon="-74.05066000">
 <ele>163.000</ele>
 </trkpt>
 </trkseg>
