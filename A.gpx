@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="40.85138810" minlon="-74.05066000" maxlat="41.21821360" maxlon="-73.90387814"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-28T14:42:43.408Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:49:01.537Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.21785059" lon="-74.05072027">
 </active_point>
 </extensions>
@@ -25,8 +25,9 @@
 <time>2018-02-19T18:56:44.642Z</time>
 <name>LP3937</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP3937</label_text>
 </label>
@@ -37,8 +38,9 @@
 <time>2018-02-19T18:57:35.186Z</time>
 <name>LP3950</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP3950</label_text>
 </label>
@@ -49,8 +51,9 @@
 <time>2018-02-19T18:57:12.332Z</time>
 <name>LP3949</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP3949</label_text>
 </label>
@@ -109,8 +112,9 @@
 <time>2018-02-19T18:50:06.732Z</time>
 <name>SMtnServiceRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SMtnServiceRd</label_text>
 </label>
@@ -145,8 +149,9 @@
 <time>2018-02-19T18:38:06.214Z</time>
 <name>CentralHighway</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CentralHighway</label_text>
 </label>
@@ -157,8 +162,9 @@
 <time>2018-02-19T18:55:45.003Z</time>
 <name>LP4005</name>
 <sym>Tall Tower</sym>
-<type>Tall Tower</type>
+<type>Power Line</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:49:01.537Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP4005</label_text>
 </label>
@@ -169,8 +175,9 @@
 <time>2018-02-19T18:20:20.888Z</time>
 <name>TweedBvld</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TweedBvld</label_text>
 </label>
@@ -349,8 +356,9 @@
 <time>2018-02-19T18:51:45.168Z</time>
 <name>MtIvyNY</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>MtIvyNY</label_text>
 </label>
@@ -385,8 +393,9 @@
 <time>2018-02-19T18:55:06.034Z</time>
 <name>LP~US202~N</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP~US202~N</label_text>
 </label>
@@ -447,8 +456,9 @@
 <time>2018-02-19T18:25:07.991Z</time>
 <name>ChristianHeraldRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>ChristianHeraldRd</label_text>
 </label>
@@ -459,8 +469,9 @@
 <time>2018-02-19T18:21:24.052Z</time>
 <name>BradleyHillRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BradleyHillRd</label_text>
 </label>
@@ -507,8 +518,9 @@
 <time>2018-02-19T16:53:13.677Z</time>
 <name>LudlowLn</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LudlowLn</label_text>
 </label>
@@ -519,8 +531,9 @@
 <time>2018-02-19T16:39:15.569Z</time>
 <name>GreenBrookRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>GreenBrookRd</label_text>
 </label>
@@ -531,8 +544,9 @@
 <time>2018-02-19T18:26:30.718Z</time>
 <name>LP~9W~E</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP~9W~E</label_text>
 </label>
@@ -567,8 +581,9 @@
 <time>2018-02-19T16:37:57.398Z</time>
 <name>PalisadeAve</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>PalisadeAve</label_text>
 </label>
@@ -579,8 +594,9 @@
 <time>2018-02-19T18:23:39.086Z</time>
 <name>MountainviewAve</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>MountainviewAve</label_text>
 </label>
@@ -640,8 +656,9 @@
 <time>2018-02-19T17:10:29.240Z</time>
 <name>ClauslandMtnRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>ClauslandMtnRd</label_text>
 </label>
@@ -676,8 +693,9 @@
 <time>2018-02-19T18:22:20.478Z</time>
 <name>LP~WaldronRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP~WaldronRd</label_text>
 </label>
@@ -688,8 +706,9 @@
 <time>2018-02-19T18:25:54.744Z</time>
 <name>LP~9W~D</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP~9W~D</label_text>
 </label>
@@ -712,8 +731,9 @@
 <time>2018-02-19T18:32:07.850Z</time>
 <name>LP~9W~F</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP~9W~F</label_text>
 </label>
@@ -748,8 +768,9 @@
 <time>2018-02-19T18:22:59.150Z</time>
 <name>Route59</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Route59</label_text>
 </label>
@@ -760,8 +781,9 @@
 <time>2018-02-19T18:30:37.307Z</time>
 <name>LandingRd</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LandingRd</label_text>
 </label>
@@ -772,8 +794,9 @@
 <time>2018-02-19T16:59:37Z</time>
 <name>9W~Castle</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>9W~Castle</label_text>
 </label>
@@ -784,8 +807,9 @@
 <time>2018-02-19T16:53:39.241Z</time>
 <name>LP~9W~A</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP~9W~A</label_text>
 </label>
@@ -796,8 +820,9 @@
 <time>2018-02-19T18:33:36.598Z</time>
 <name>LP~Old304~S</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP~Old304~S</label_text>
 </label>
@@ -808,8 +833,9 @@
 <time>2018-02-19T16:59:22.651Z</time>
 <name>LP~9W~C</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP~9W~C</label_text>
 </label>
@@ -821,8 +847,9 @@
 <name>Palisades</name>
 <desc>Oak Tree Road interescts 9W in Palisades, NY.</desc>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Palisades</label_text>
 </label>
@@ -833,8 +860,9 @@
 <time>2018-02-19T16:55:12.524Z</time>
 <name>LP~9W~B</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP~9W~B</label_text>
 </label>
@@ -881,8 +909,9 @@
 <time>2018-02-19T18:34:17.221Z</time>
 <name>LP~Old304~N</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LP~Old304~N</label_text>
 </label>
@@ -929,8 +958,9 @@
 <time>2018-02-19T17:04:03.327Z</time>
 <name>TallmanLoopN</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TallmanLoopN</label_text>
 </label>
@@ -941,8 +971,9 @@
 <time>2018-02-19T17:00:17.310Z</time>
 <name>CrescentRd~PiermontPl</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CrescentRd~PiermontPl</label_text>
 </label>
@@ -953,8 +984,9 @@
 <time>2018-02-19T17:03:51.391Z</time>
 <name>TallmanLoopS</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TallmanLoopS</label_text>
 </label>
@@ -965,8 +997,9 @@
 <time>2018-02-19T17:00:29.401Z</time>
 <name>AshSt~PiermontPl</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>AshSt~PiermontPl</label_text>
 </label>
@@ -989,8 +1022,9 @@
 <time>2018-02-19T18:32:42.856Z</time>
 <name>Scratchup~LongClove</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Scratchup~LongClove</label_text>
 </label>
@@ -1013,8 +1047,9 @@
 <time>2018-02-19T17:06:24.234Z</time>
 <name>PiermontAve~TateAve</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:48:52.395Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>PiermontAve~TateAve</label_text>
 </label>
