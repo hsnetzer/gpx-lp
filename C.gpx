@@ -3,8 +3,8 @@
 <metadata>
 <bounds minlat="41.32001634" minlon="-74.61120620" maxlat="41.41480230" maxlon="-74.10400150"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:49:20.226Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.31998505" lon="-74.10654070">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:25:10.307Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.40105846" lon="-74.34028016">
 </active_point>
 </extensions>
 </metadata>
@@ -241,14 +241,14 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.40104230" lon="-74.34021042">
+<wpt lat="41.40105846" lon="-74.34028016">
 <ele>129.700</ele>
 <time>2018-02-19T21:10:51.233Z</time>
 <name>NY17Overpass</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:49:20.226Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:25:10.307Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>NY17Overpass</label_text>
 </label>

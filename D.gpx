@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="41.31853568" minlon="-74.66356515" maxlat="42.19169708" maxlon="-74.08253637"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:49:46.138Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:29:43.042Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.73569850" lon="-74.18536587">
 </active_point>
 </extensions>
@@ -693,7 +693,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.73730000" lon="-74.18780000">
+<wpt lat="41.73721562" lon="-74.18782414">
 <ele>294.000</ele>
 <time>2017-02-25T15:06:05.492Z</time>
 <name>UberfallPrivy</name>
@@ -701,13 +701,13 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Restroom</sym>
 <type>Privy</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-02-25T15:15:49.572Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:29:36.084Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>UberfallPrivy</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="41.73780000" lon="-74.18600000">
+<wpt lat="41.73774978" lon="-74.18595708">
 <ele>312.000</ele>
 <time>2017-02-25T15:07:17.532Z</time>
 <name>BabyCache</name>
@@ -715,7 +715,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-02-25T15:15:43.128Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:29:43.042Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BabyCache</label_text>
 </label>
