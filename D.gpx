@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="41.31853568" minlon="-74.66356515" maxlat="42.19169708" maxlon="-74.08253637"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-25T18:32:07.843Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-25T21:55:04.725Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.73825775" lon="-74.18378458">
 </active_point>
 </extensions>
@@ -900,10 +900,11 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <wpt lat="41.68541776" lon="-74.32785336">
 <ele>532.000</ele>
 <time>2020-10-25T17:51:46.231Z</time>
+<cmt>{ "notOn": "SRT" }</cmt>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-25T17:55:37.144Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-25T21:55:04.725Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Verkeerderkill532</label_text>
 </label>
