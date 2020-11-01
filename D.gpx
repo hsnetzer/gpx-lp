@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="41.31853568" minlon="-74.66356515" maxlat="42.19169708" maxlon="-74.08253637"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-25T21:55:04.725Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-01T00:03:48.094Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.73825775" lon="-74.18378458">
 </active_point>
 </extensions>
@@ -930,6 +930,61 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-25T18:22:56.117Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LouisRavine529</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.94701194" lon="-74.40292773">
+<time>2020-10-31T23:47:35.713Z</time>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-01T00:03:48.094Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>PeekamooseSpring</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.07819665" lon="-74.31905792">
+<time>2020-10-31T23:58:01.765Z</time>
+<sym>Car</sym>
+<type>Road</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LaneStreet</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.08191321" lon="-74.31211636">
+<ele>247.000</ele>
+<time>2020-10-31T23:58:43.709Z</time>
+<desc>Bridge Street crosses Esopus Creek.</desc>
+<sym>Bridge</sym>
+<type>Bridge</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-31T23:59:27.317Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Esopus~Bridge</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.07432400" lon="-74.27776263">
+<time>2020-11-01T00:01:02.766Z</time>
+<desc>Firetower.</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MtTremper</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.09338921" lon="-74.25565586">
+<time>2020-11-01T00:02:10.266Z</time>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Willow~WarnerCreek</label_text>
 </label>
 </extensions>
 </wpt>
@@ -27107,7 +27162,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <desc>bad,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-25T18:32:07.843Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-01T00:03:36Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Long Path</label_text>
@@ -41322,7 +41377,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="41.94683000" lon="-74.40311350">
 <ele>1072.000</ele>
 </trkpt>
-<trkpt lat="41.94696920" lon="-74.40293160">
+<trkpt lat="41.94700324" lon="-74.40292892">
 <ele>1077.000</ele>
 </trkpt>
 <trkpt lat="41.94707760" lon="-74.40266770">
@@ -48510,16 +48565,16 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="42.07766380" lon="-74.32022680">
 <ele>300.000</ele>
 </trkpt>
-<trkpt lat="42.07782570" lon="-74.31995490">
+<trkpt lat="42.07770980" lon="-74.31969741">
 <ele>287.000</ele>
 </trkpt>
-<trkpt lat="42.07799920" lon="-74.31962930">
+<trkpt lat="42.07793526" lon="-74.31921088">
 <ele>285.000</ele>
 </trkpt>
-<trkpt lat="42.07851950" lon="-74.31935340">
+<trkpt lat="42.07819979" lon="-74.31906104">
 <ele>264.000</ele>
 </trkpt>
-<trkpt lat="42.07895100" lon="-74.31921700">
+<trkpt lat="42.07894301" lon="-74.31927601">
 <ele>256.000</ele>
 </trkpt>
 <trkpt lat="42.07895600" lon="-74.31994200">
@@ -48732,40 +48787,40 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="42.07131300" lon="-74.29436610">
 <ele>460.000</ele>
 </trkpt>
-<trkpt lat="42.07055620" lon="-74.29479650">
+<trkpt lat="42.07054021" lon="-74.29487160">
 <ele>451.000</ele>
 </trkpt>
-<trkpt lat="42.07015550" lon="-74.29494030">
+<trkpt lat="42.07013951" lon="-74.29501540">
 <ele>460.000</ele>
 </trkpt>
-<trkpt lat="42.06993470" lon="-74.29509640">
+<trkpt lat="42.06991072" lon="-74.29527879">
 <ele>458.000</ele>
 </trkpt>
-<trkpt lat="42.06947280" lon="-74.29501990">
+<trkpt lat="42.06936088" lon="-74.29505209">
 <ele>460.000</ele>
 </trkpt>
-<trkpt lat="42.06951510" lon="-74.29491380">
+<trkpt lat="42.06958705" lon="-74.29464558">
 <ele>460.000</ele>
 </trkpt>
-<trkpt lat="42.07014520" lon="-74.29433880">
+<trkpt lat="42.07006526" lon="-74.29427443">
 <ele>468.000</ele>
 </trkpt>
-<trkpt lat="42.07048510" lon="-74.29417790">
+<trkpt lat="42.07040516" lon="-74.29411353">
 <ele>468.000</ele>
 </trkpt>
-<trkpt lat="42.07060060" lon="-74.29404270">
+<trkpt lat="42.07052066" lon="-74.29397833">
 <ele>472.000</ele>
 </trkpt>
-<trkpt lat="42.07075390" lon="-74.29334930">
+<trkpt lat="42.07071393" lon="-74.29344586">
 <ele>491.000</ele>
 </trkpt>
-<trkpt lat="42.07075510" lon="-74.29301200">
+<trkpt lat="42.07071513" lon="-74.29310856">
 <ele>500.000</ele>
 </trkpt>
-<trkpt lat="42.07040020" lon="-74.29284770">
+<trkpt lat="42.07036023" lon="-74.29294426">
 <ele>504.000</ele>
 </trkpt>
-<trkpt lat="42.06972760" lon="-74.29279400">
+<trkpt lat="42.06968763" lon="-74.29289056">
 <ele>512.000</ele>
 </trkpt>
 <trkpt lat="42.06874400" lon="-74.29189200">
@@ -48888,22 +48943,22 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="42.07379500" lon="-74.27791760">
 <ele>832.000</ele>
 </trkpt>
-<trkpt lat="42.07413710" lon="-74.27769770">
+<trkpt lat="42.07432095" lon="-74.27776207">
 <ele>830.000</ele>
 </trkpt>
-<trkpt lat="42.07479360" lon="-74.27751140">
+<trkpt lat="42.07493748" lon="-74.27776889">
 <ele>828.000</ele>
 </trkpt>
-<trkpt lat="42.07515580" lon="-74.27746680">
+<trkpt lat="42.07544356" lon="-74.27725222">
 <ele>826.000</ele>
 </trkpt>
-<trkpt lat="42.07600910" lon="-74.27756870">
+<trkpt lat="42.07610502" lon="-74.27743995">
 <ele>826.000</ele>
 </trkpt>
-<trkpt lat="42.07798070" lon="-74.27887620">
+<trkpt lat="42.07754908" lon="-74.27853288">
 <ele>818.000</ele>
 </trkpt>
-<trkpt lat="42.07845890" lon="-74.27901590">
+<trkpt lat="42.07802728" lon="-74.27867258">
 <ele>831.000</ele>
 </trkpt>
 <trkpt lat="42.07903470" lon="-74.27892470">
@@ -48981,10 +49036,10 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <trkpt lat="42.09204600" lon="-74.25726550">
 <ele>748.000</ele>
 </trkpt>
-<trkpt lat="42.09250250" lon="-74.25682480">
+<trkpt lat="42.09267830" lon="-74.25636346">
 <ele>740.000</ele>
 </trkpt>
-<trkpt lat="42.09337490" lon="-74.25580640">
+<trkpt lat="42.09339088" lon="-74.25565620">
 <ele>734.000</ele>
 </trkpt>
 <trkpt lat="42.09376660" lon="-74.25565990">
