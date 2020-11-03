@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
 <metadata>
 <bounds minlat="41.31853568" minlon="-74.66356515" maxlat="42.19169708" maxlon="-74.08253637"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-01T22:45:20.925Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-03T03:58:22.027Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.91028733" lon="-74.40233946">
 </active_point>
 </extensions>
@@ -17,7 +17,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T17:49:25.948Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP~SRT~NE</label_text>
 </label>
 </extensions>
@@ -31,7 +31,7 @@
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:49:46.138Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SRT-NE</label_text>
 </label>
 </extensions>
@@ -45,7 +45,7 @@
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:49:46.138Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DevilsPathW</label_text>
 </label>
 </extensions>
@@ -59,7 +59,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:08:10.984Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DevilsLongPathW</label_text>
 </label>
 </extensions>
@@ -73,7 +73,7 @@
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:49:46.138Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DevilsPathEast</label_text>
 </label>
 </extensions>
@@ -87,7 +87,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-01-05T03:39:48.322Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DevilsLongPathE</label_text>
 </label>
 </extensions>
@@ -101,7 +101,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-10T03:47:39.350Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WestKill</label_text>
 </label>
 </extensions>
@@ -110,12 +110,12 @@
 <ele>1161.288</ele>
 <time>2016-08-18T15:24:58.568Z</time>
 <name>SugarloafCats</name>
-<desc>Summit, Sugarloaf Mountain, one of the Catskill High Peaks.</desc>
+<desc>Sugarloaf Mountain, one of the Catskill High Peaks.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T13:38:09.536Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-03T03:58:22.027Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SugarloafCats</label_text>
 </label>
 </extensions>
@@ -129,7 +129,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T13:38:37.163Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PlateauMtn</label_text>
 </label>
 </extensions>
@@ -143,7 +143,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-02-25T15:21:22.351Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TwinMtn</label_text>
 </label>
 </extensions>
@@ -156,7 +156,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TwinMtnSouth</label_text>
 </label>
 </extensions>
@@ -169,7 +169,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>IndianHead</label_text>
 </label>
 </extensions>
@@ -182,7 +182,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-09-19T17:51:43.664Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DPHwy214</label_text>
 </label>
 </extensions>
@@ -195,7 +195,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Peekamoose</label_text>
 </label>
 </extensions>
@@ -208,7 +208,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TableMtn</label_text>
 </label>
 </extensions>
@@ -224,7 +224,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-09-19T03:12:05Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SlideMtn</label_text>
 </label>
 </extensions>
@@ -238,7 +238,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-19T21:19:37.774Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP~SRT~SW</label_text>
 </label>
 </extensions>
@@ -251,7 +251,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T13:39:24.430Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HighPtNJ</label_text>
 </label>
 </extensions>
@@ -265,7 +265,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T17:48:42.086Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SRT-SW</label_text>
 </label>
 </extensions>
@@ -278,7 +278,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T18:00:42.251Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PlatteCloveRd</label_text>
 </label>
 </extensions>
@@ -291,7 +291,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:49:46.138Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GunksTH</label_text>
 </label>
 </extensions>
@@ -304,7 +304,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-01-05T02:55:25.266Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>OvercliffJct</label_text>
 </label>
 </extensions>
@@ -317,7 +317,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T13:39:53.463Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Cornell</label_text>
 </label>
 </extensions>
@@ -330,7 +330,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:22:09.573Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Wittenberg</label_text>
 </label>
 </extensions>
@@ -344,7 +344,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T13:40:09.296Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WoodlandPump</label_text>
 </label>
 </extensions>
@@ -358,7 +358,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T13:40:18.782Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PEB509</label_text>
 </label>
 </extensions>
@@ -372,7 +372,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-09-19T17:36:59.164Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PEB450</label_text>
 </label>
 </extensions>
@@ -386,7 +386,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-01-05T03:39:21.851Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GiantPantherJct</label_text>
 </label>
 </extensions>
@@ -400,7 +400,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T13:40:29.233Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PEB360</label_text>
 </label>
 </extensions>
@@ -414,7 +414,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Campground</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T13:40:50.575Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WestSlideCamp</label_text>
 </label>
 </extensions>
@@ -428,7 +428,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:22:37.537Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LPWCSSouth</label_text>
 </label>
 </extensions>
@@ -442,7 +442,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:27:17.623Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP17479</label_text>
 </label>
 </extensions>
@@ -456,7 +456,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:27:55.403Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP17485</label_text>
 </label>
 </extensions>
@@ -470,7 +470,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:30:05.991Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP17492</label_text>
 </label>
 </extensions>
@@ -484,7 +484,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-09-19T17:46:01.523Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP17509</label_text>
 </label>
 </extensions>
@@ -498,7 +498,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T13:41:28.421Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP17594</label_text>
 </label>
 </extensions>
@@ -512,7 +512,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-01-05T03:39:00.131Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LPWSNorth</label_text>
 </label>
 </extensions>
@@ -525,7 +525,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-09-19T17:52:44.426Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TerraceMtn</label_text>
 </label>
 </extensions>
@@ -538,7 +538,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-01-05T03:38:53.937Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TerraceMtnSpur</label_text>
 </label>
 </extensions>
@@ -552,7 +552,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:31:48.121Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CurtissOrmsbee</label_text>
 </label>
 </extensions>
@@ -566,7 +566,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-01-05T03:38:36.865Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SlidePhoenicia</label_text>
 </label>
 </extensions>
@@ -580,7 +580,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-01-05T03:38:30.742Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LPPhoeniciaEBrS</label_text>
 </label>
 </extensions>
@@ -594,7 +594,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:49:46.138Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PhoeniciaEBrDenning</label_text>
 </label>
 </extensions>
@@ -607,7 +607,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-09-19T17:52:52.690Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WoodlandCrWittenberg</label_text>
 </label>
 </extensions>
@@ -621,7 +621,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-09-19T17:52:06.684Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PhoeniciaWittenberg</label_text>
 </label>
 </extensions>
@@ -635,7 +635,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:49:46.138Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GiantPantherTH</label_text>
 </label>
 </extensions>
@@ -647,7 +647,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PantherMtn</label_text>
 </label>
 </extensions>
@@ -661,7 +661,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Campground</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-09-19T17:49:41.105Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GP601</label_text>
 </label>
 </extensions>
@@ -675,7 +675,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:49:46.138Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PeekamooseRd</label_text>
 </label>
 </extensions>
@@ -688,7 +688,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>UndercliffShongum</label_text>
 </label>
 </extensions>
@@ -702,7 +702,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Privy</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:29:36.084Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>UberfallPrivy</label_text>
 </label>
 </extensions>
@@ -716,7 +716,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:29:43.042Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BabyCache</label_text>
 </label>
 </extensions>
@@ -729,7 +729,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T18:05:12.942Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>StairmasterJct</label_text>
 </label>
 </extensions>
@@ -742,7 +742,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-06-28T14:18:43.330Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Sixish</label_text>
 </label>
 </extensions>
@@ -754,7 +754,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:10:02.093Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DP~MinkHollowTr</label_text>
 </label>
 </extensions>
@@ -766,7 +766,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:20:33.971Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DP643</label_text>
 </label>
 </extensions>
@@ -777,7 +777,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DP~PecoyNotchTr</label_text>
 </label>
 </extensions>
@@ -789,7 +789,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-10T03:48:15.190Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WestKillBridge</label_text>
 </label>
 </extensions>
@@ -800,7 +800,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DP~DiamondNotchA</label_text>
 </label>
 </extensions>
@@ -811,7 +811,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DP~DiamondNotchB</label_text>
 </label>
 </extensions>
@@ -824,7 +824,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:44:03.017Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Spring</label_text>
 </label>
 </extensions>
@@ -836,7 +836,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T17:57:12.329Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SRT~SamsPtRd~A</label_text>
 </label>
 </extensions>
@@ -848,7 +848,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T17:57:19.623Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SRT~SamsPtRd~B</label_text>
 </label>
 </extensions>
@@ -859,7 +859,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HighPtRd~IceCaveRd</label_text>
 </label>
 </extensions>
@@ -870,7 +870,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SRT~IceCaveRd~NE</label_text>
 </label>
 </extensions>
@@ -881,7 +881,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HennesseyMemorial</label_text>
 </label>
 </extensions>
@@ -892,7 +892,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Parking Area</sym>
 <type>Parking</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Stairmaster</label_text>
 </label>
 </extensions>
@@ -905,7 +905,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-25T21:55:04.725Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Verkeerderkill532</label_text>
 </label>
 </extensions>
@@ -916,7 +916,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-25T18:25:13.038Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP220570</label_text>
 </label>
 </extensions>
@@ -928,7 +928,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-25T18:22:56.117Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LouisRavine529</label_text>
 </label>
 </extensions>
@@ -939,7 +939,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-01T00:03:48.094Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PeekamooseSpring</label_text>
 </label>
 </extensions>
@@ -949,7 +949,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LaneStreet</label_text>
 </label>
 </extensions>
@@ -962,7 +962,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-31T23:59:27.317Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Esopus~Bridge</label_text>
 </label>
 </extensions>
@@ -973,7 +973,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MtTremper</label_text>
 </label>
 </extensions>
@@ -983,7 +983,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Willow~WarnerCreek</label_text>
 </label>
 </extensions>
@@ -994,7 +994,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-01T22:25:21.715Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>VernooyFalls</label_text>
 </label>
 </extensions>
@@ -1007,7 +1007,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-01T22:31:37.301Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>VernooyFallsCamp</label_text>
 </label>
 </extensions>
@@ -1019,7 +1019,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-01T22:45:20.925Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP262200</label_text>
 </label>
 </extensions>
@@ -1030,7 +1030,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SamsonMtn</label_text>
 </label>
 </extensions>
@@ -1042,7 +1042,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-01T22:36:10.146Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BangleHill</label_text>
 </label>
 </extensions>
@@ -1054,7 +1054,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-01T22:44:52.392Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>VernooyKill600</label_text>
 </label>
 </extensions>
@@ -1066,7 +1066,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-11-13T15:15:57.301Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Undercliff-Overcliff</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -3051,7 +3051,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:32:24.244Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Phoenicia E Branch Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -5675,7 +5675,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-02-19T04:07:25.726Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">00ff00</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Terrace Mtn Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -6004,7 +6004,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T17:30:04.223Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Wittenberg Cornell Slide</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -9603,7 +9603,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-01-05T02:48:17.253Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Denning Road Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -10112,7 +10112,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:05:30.434Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Giant Panther</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -12448,7 +12448,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T20:20:36.717Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">009300</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Devils Path</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -18484,9 +18484,9 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <desc>bad,ne</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-25T18:31:20.949Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-25T18:31:20.948Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Shawangunk Ridge Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -27137,7 +27137,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:05:45.753Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Stairmaster</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -27235,7 +27235,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-01T22:44:20.272Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Long Path</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -50728,9 +50728,9 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <desc>good,nw</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-01T22:30:53.528Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-03T03:49:51.942Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">fc5ab8</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Vernooy Camp Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -50741,29 +50741,29 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="41.87302873" lon="-74.37136560">
-<ele>528.000</ele>
+<trkpt lat="41.87241128" lon="-74.37057703">
+<ele>521.000</ele>
 </trkpt>
-<trkpt lat="41.87295255" lon="-74.37129049">
-<ele>525.000</ele>
+<trkpt lat="41.87247979" lon="-74.37068095">
+<ele>521.000</ele>
 </trkpt>
-<trkpt lat="41.87284429" lon="-74.37118857">
-<ele>525.000</ele>
-</trkpt>
-<trkpt lat="41.87272401" lon="-74.37103300">
+<trkpt lat="41.87255196" lon="-74.37080970">
 <ele>523.000</ele>
 </trkpt>
 <trkpt lat="41.87262378" lon="-74.37090962">
 <ele>523.000</ele>
 </trkpt>
-<trkpt lat="41.87255196" lon="-74.37080970">
+<trkpt lat="41.87272401" lon="-74.37103300">
 <ele>523.000</ele>
 </trkpt>
-<trkpt lat="41.87247979" lon="-74.37068095">
-<ele>521.000</ele>
+<trkpt lat="41.87284429" lon="-74.37118857">
+<ele>525.000</ele>
 </trkpt>
-<trkpt lat="41.87241128" lon="-74.37057703">
-<ele>521.000</ele>
+<trkpt lat="41.87295255" lon="-74.37129049">
+<ele>525.000</ele>
+</trkpt>
+<trkpt lat="41.87302873" lon="-74.37136560">
+<ele>528.000</ele>
 </trkpt>
 </trkseg>
 </trk>
