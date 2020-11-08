@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="42.12660619" minlon="-74.49226840" maxlat="42.63007470" maxlon="-74.02799110"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T18:53:27.064Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T21:25:36.543Z</time>
 </extensions>
 </metadata>
 <wpt lat="42.31485256" lon="-74.14336894">
@@ -186,7 +186,7 @@
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T18:51:40.930Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T21:22:52.553Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DevilsKitchen708</label_text>
 </label>
@@ -204,12 +204,25 @@
 </label>
 </extensions>
 </wpt>
+<wpt lat="42.14514400" lon="-74.06993300">
+<ele>750.000</ele>
+<time>2020-11-08T21:22:13.414Z</time>
+<desc>Deepish stream.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T21:25:36.543Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>DevilsKitchen750</label_text>
+</label>
+</extensions>
+</wpt>
 <trk>
 <name>LP</name>
 <desc>bad,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T18:36:36.543Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T21:23:05.240Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Long Path</label_text>
@@ -321,7 +334,7 @@
 <trkpt lat="42.14412640" lon="-74.07047320">
 <ele>752.000</ele>
 </trkpt>
-<trkpt lat="42.14477940" lon="-74.07016010">
+<trkpt lat="42.14514668" lon="-74.06993479">
 <ele>753.000</ele>
 </trkpt>
 <trkpt lat="42.14564350" lon="-74.06943850">
