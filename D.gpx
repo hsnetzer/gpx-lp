@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="41.31853568" minlon="-74.66356515" maxlat="42.19169708" maxlon="-74.08253637"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-21T21:35:37.667Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-23T02:15:01.502Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.99379200" lon="-74.41875700">
 </active_point>
 </extensions>
@@ -265,11 +265,11 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <ele>487.680</ele>
 <time>2016-05-04T21:04:19.118Z</time>
 <name>SRT-SW</name>
-<desc>Junction of the AT with the Shawangunk Ridge Trail. West 0.2 miles to the obelisk at the New Jersey high point. West 11.3 miles to the New York Long Path, which after 40 miles coincides with the AT at the latter's milepost 1383.</desc>
+<desc>Junction of the AT with the Shawangunk Ridge Trail. West 0.2 miles to the obelisk at the New Jersey high point. West 11.3 miles to junction with the New York Long Path.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-12T17:48:42.086Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-23T02:15:01.502Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SRT-SW</label_text>
 </label>
@@ -1108,14 +1108,14 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Campground</sym>
 <type>Campsite</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-21T21:31:57.656Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-21T21:31:57.655Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DEC5</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="41.99403111" lon="-74.41842441">
-<time>2020-11-21T21:28:53.768Z</time>
+<time>2020-11-21T21:28:53.767Z</time>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
