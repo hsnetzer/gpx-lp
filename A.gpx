@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="40.85138810" minlon="-74.05066000" maxlat="41.21821360" maxlon="-73.90387814"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-14T19:01:36.343Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:01:59.655Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.19785496" lon="-74.07202615">
 </active_point>
 </extensions>
@@ -1079,6 +1079,53 @@
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-14T19:01:36.343Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SBranchMinisceongo</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.07469184" lon="-73.93577219">
+<time>2020-11-30T00:47:49.321Z</time>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T00:50:55.489Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP32660</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.06479742" lon="-73.94338910">
+<ele>85.000</ele>
+<time>2020-11-30T00:51:04.995Z</time>
+<desc>Solid stream.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T00:53:17.683Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>SparkillCreek85</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.06096126" lon="-73.93860000">
+<time>2020-11-30T00:53:39.655Z</time>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T00:58:31.899Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>SparkillCreekEast</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="41.05229445" lon="-73.93209928">
+<time>2020-11-30T00:59:26.377Z</time>
+<desc>Spring.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:00:12.787Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP28776</label_text>
 </label>
 </extensions>
 </wpt>

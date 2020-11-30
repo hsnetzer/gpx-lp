@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="42.12660619" minlon="-74.49226840" maxlat="42.63007470" maxlon="-74.02799110"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:27:06.065Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:18:11.363Z</time>
 </extensions>
 </metadata>
 <wpt lat="42.31485256" lon="-74.14336894">
@@ -199,7 +199,7 @@
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T18:53:27.064Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T18:53:27.063Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Roundtop</label_text>
 </label>
@@ -215,6 +215,64 @@
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T21:25:36.543Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DevilsKitchen750</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.18254105" lon="-74.04324489">
+<time>2020-11-30T01:01:15.288Z</time>
+<desc>Nameless stream in a ravine.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:06:43.519Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP354000</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.18224800" lon="-74.05226600">
+<time>2020-11-30T01:07:51.002Z</time>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:09:25.545Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP355871</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.18661100" lon="-74.04254000">
+<time>2020-11-30T01:11:08.398Z</time>
+<desc>Stream near junction.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:14:04.917Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP357334</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.24827100" lon="-74.07093100">
+<ele>716.000</ele>
+<time>2020-11-30T01:14:20.957Z</time>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:15:44.931Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>DutcherSpring</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.24911595" lon="-74.07540492">
+<time>2020-11-30T01:15:49.645Z</time>
+<desc>Dutcher Notch Trail crosses the Long Path.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP~Dutcher</label_text>
 </label>
 </extensions>
 </wpt>
