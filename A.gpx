@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="40.85138810" minlon="-74.05066000" maxlat="41.21821360" maxlon="-73.90387814"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:01:59.655Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-16T20:07:17.648Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.19785496" lon="-74.07202615">
 </active_point>
 </extensions>
@@ -1095,7 +1095,7 @@
 </wpt>
 <wpt lat="41.06479742" lon="-73.94338910">
 <ele>85.000</ele>
-<time>2020-11-30T00:51:04.995Z</time>
+<time>2020-11-30T00:51:04.994Z</time>
 <desc>Solid stream.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
@@ -1107,11 +1107,12 @@
 </extensions>
 </wpt>
 <wpt lat="41.06096126" lon="-73.93860000">
+<ele>90.000</ele>
 <time>2020-11-30T00:53:39.655Z</time>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T00:58:31.899Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-16T20:07:17.648Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SparkillCreekEast</label_text>
 </label>
