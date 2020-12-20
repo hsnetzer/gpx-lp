@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.29 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
 <metadata>
 <desc>Northern Catskills to Bradt Hollow Road</desc>
 <copyright author="Harry Netzer">
@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="42.12660619" minlon="-74.49226840" maxlat="42.63007470" maxlon="-74.02799110"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:13:44.295Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:32:27.037Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.30666119" lon="-74.17386296">
 </active_point>
 </extensions>
@@ -221,35 +221,38 @@
 </extensions>
 </wpt>
 <wpt lat="42.18254105" lon="-74.04324489">
+<ele>400.000</ele>
 <time>2020-11-30T01:01:15.288Z</time>
 <desc>Nameless stream in a ravine.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:06:43.519Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:31:35.056Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP354000</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="42.18224800" lon="-74.05226600">
+<ele>491.000</ele>
 <time>2020-11-30T01:07:51.002Z</time>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:09:25.545Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:25:58.962Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP355871</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="42.18661100" lon="-74.04254000">
+<ele>700.000</ele>
 <time>2020-11-30T01:11:08.398Z</time>
 <desc>Stream near junction.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:14:04.917Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:32:13.802Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP357334</label_text>
 </label>
@@ -268,12 +271,13 @@
 </extensions>
 </wpt>
 <wpt lat="42.24911595" lon="-74.07540492">
+<ele>778.000</ele>
 <time>2020-11-30T01:15:49.645Z</time>
 <desc>Dutcher Notch Trail crosses the Long Path.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:09:37.991Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:19:18.963Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP~Dutcher</label_text>
 </label>
@@ -294,13 +298,14 @@
 </extensions>
 </wpt>
 <wpt lat="42.30952810" lon="-74.15548241">
-<ele>0.000</ele>
+<ele>864.000</ele>
 <time>2020-12-13T13:20:47Z</time>
 <name>LP385433</name>
 <desc>Trail crosses small stream
 </desc>
 <type>Water</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:22:16.975Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP385433</label_text>
 </label>
@@ -331,92 +336,98 @@
 </extensions>
 </wpt>
 <wpt lat="42.36618174" lon="-74.31250401">
-<ele>0.000</ele>
+<ele>688.000</ele>
 <time>2020-12-12T20:00:32Z</time>
 <name>LP410261</name>
 <desc>Stream parallel to trail
 </desc>
 <type>Water</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:24:32.982Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP410261</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="42.36843845" lon="-74.29244307">
-<ele>0.000</ele>
+<ele>679.000</ele>
 <time>2020-12-12T19:15:51Z</time>
 <name>LP407544</name>
 <desc>Trail crosses strong stream
 </desc>
 <type>Water</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:24:36.305Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP407544</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="42.36999811" lon="-74.28608907">
-<ele>0.000</ele>
+<ele>681.000</ele>
 <time>2020-12-12T18:59:13Z</time>
 <name>LP406846</name>
 <desc>Trail crosses strong stream.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-16T21:29:39.109Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:24:21.777Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP406846</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="42.37554555" lon="-74.22753633">
-<ele>0.000</ele>
+<ele>600.000</ele>
 <time>2020-12-12T16:23:51Z</time>
 <name>LP400103</name>
 <desc>Trail crosses small stream
 </desc>
 <type>Water</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:32:27.037Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP400103</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="42.33508986" lon="-74.19014934">
-<ele>0.000</ele>
+<ele>648.000</ele>
 <time>2020-12-12T13:24:10Z</time>
 <name>LP392294</name>
 <desc>Small stream flanks trail
 </desc>
 <type>Water</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:23:32.731Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP392294</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="42.31487114" lon="-74.18828734">
-<ele>0.000</ele>
+<ele>552.000</ele>
 <time>2020-12-12T12:51:15Z</time>
 <name>LP389704</name>
 <desc>Trail crosses small stream
 </desc>
 <type>Water</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:26:02.923Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP389704</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="42.31275424" lon="-74.18912317">
-<ele>0.000</ele>
+<ele>537.000</ele>
 <time>2020-12-12T12:33:44Z</time>
 <name>LP389316</name>
 <desc>Trail crosses large stream
 </desc>
 <type>Water</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:22:50.527Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP389316</label_text>
 </label>
@@ -429,9 +440,9 @@
 <sym>Bank</sym>
 <type>Convenience Store</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-16T21:28:34.142Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:17:49.715Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>ConesvilleCountyStore</label_text>
+<label_text>ConesvilleStore</label_text>
 </label>
 </extensions>
 </wpt>
