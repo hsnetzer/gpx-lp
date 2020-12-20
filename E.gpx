@@ -8,8 +8,8 @@
 </copyright>
 <bounds minlat="42.12660619" minlon="-74.49226840" maxlat="42.63007470" maxlon="-74.02799110"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-16T21:29:39.109Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.30634431" lon="-74.17380840">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:13:44.295Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.30666119" lon="-74.17386296">
 </active_point>
 </extensions>
 </metadata>
@@ -273,6 +273,7 @@
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:09:37.991Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP~Dutcher</label_text>
 </label>
@@ -306,21 +307,24 @@
 </extensions>
 </wpt>
 <wpt lat="42.30656612" lon="-74.17466495">
+<ele>713.000</ele>
 <time>2020-12-16T21:17:23.027Z</time>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:10:50.075Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ElmRidgeTrail</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="42.30673336" lon="-74.17393002">
+<ele>718.000</ele>
 <time>2020-12-16T21:18:20.595Z</time>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-16T21:19:26.304Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:13:44.295Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ElmRidgeShelterJct</label_text>
 </label>

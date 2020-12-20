@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="41.31853568" minlon="-74.66356515" maxlat="42.19169708" maxlon="-74.08253637"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-10T21:53:28.197Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T00:46:50.155Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.99379200" lon="-74.41875700">
 </active_point>
 </extensions>
@@ -1414,10 +1414,12 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </extensions>
 </wpt>
 <wpt lat="42.07049908" lon="-74.28736106">
+<ele>649.000</ele>
 <time>2020-12-10T21:50:26.843Z</time>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T00:46:50.155Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BaldwinMemorialJct</label_text>
 </label>
