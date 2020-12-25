@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="41.31853568" minlon="-74.66356515" maxlat="42.19169708" maxlon="-74.08253637"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T00:51:04.942Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:36:27.543Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.99379200" lon="-74.41875700">
 </active_point>
 </extensions>
@@ -1085,7 +1085,7 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <sym>Campground</sym>
 <type>Campsite</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T02:05:30.353Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:25:58.575Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DEC2</label_text>
 </label>
@@ -1130,11 +1130,12 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </extensions>
 </wpt>
 <wpt lat="42.01211500" lon="-74.34083800">
+<ele>828.000</ele>
 <time>2020-11-21T21:32:26.827Z</time>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-21T21:35:37.667Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:36:27.543Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CrossMtnHollow</label_text>
 </label>
@@ -1356,29 +1357,14 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <wpt lat="42.07019045" lon="-74.28784121">
 <ele>639.000</ele>
 <time>2020-12-07T15:13:25Z</time>
-<cmt>{ "parent": "BaldwinMemorialJct" }</cmt>
+<cmt>{ "parent": "BaldwinMemorialJct", "notOn": "LP" }</cmt>
 <desc>Sleeps 3-5, has privy.</desc>
 <sym>Campground</sym>
 <type>Shelter</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-10T21:51:09.511Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:24:02.876Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BaldwinMemorialShelt</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="42.07023528" lon="-74.28765074">
-<ele>647.000</ele>
-<time>2020-12-07T15:14:33Z</time>
-<name>LP308881</name>
-<cmt>{ "parent": "BaldwinMemorialJct" }</cmt>
-<desc>����������������������������������������������������������������������������������������������������
-</desc>
-<type>Privy</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-10T21:50:42.132Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>LP308881</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1402,9 +1388,10 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <name>LP306259</name>
 <desc>Small spring
 </desc>
+<sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-10T21:43:06.345Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:15:25.371Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP306259</label_text>
 </label>
@@ -1432,6 +1419,19 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T00:46:50.155Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BaldwinMemorialJct</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.07025327" lon="-74.28765946">
+<ele>647.000</ele>
+<time>2020-12-07T15:14:33Z</time>
+<cmt>{ "parent": "BaldwinMemorialJct", "notOn": "LP" }</cmt>
+<sym>Restroom</sym>
+<type>Privy</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:23:40.709Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>BaldwinPrivy</label_text>
 </label>
 </extensions>
 </wpt>
@@ -51088,6 +51088,46 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </trkpt>
 <trkpt lat="41.99403211" lon="-74.41841502">
 <ele>944.000</ele>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>BALDWIN</name>
+<desc>good, sw</desc>
+<type>Line</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:19:01.580Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Baldwin Memorial Spur</label_text>
+</label>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<color>cb0017</color>
+<opacity>1.00</opacity>
+<width>1.1250</width>
+<pattern>Solid</pattern>
+</line>
+</extensions>
+<trkseg>
+<trkpt lat="42.07050307" lon="-74.28736106">
+<ele>649.000</ele>
+</trkpt>
+<trkpt lat="42.07045911" lon="-74.28745226">
+<ele>649.000</ele>
+</trkpt>
+<trkpt lat="42.07039915" lon="-74.28757027">
+<ele>643.000</ele>
+</trkpt>
+<trkpt lat="42.07034719" lon="-74.28765342">
+<ele>643.000</ele>
+</trkpt>
+<trkpt lat="42.07029523" lon="-74.28770707">
+<ele>643.000</ele>
+</trkpt>
+<trkpt lat="42.07023928" lon="-74.28777412">
+<ele>639.000</ele>
+</trkpt>
+<trkpt lat="42.07019931" lon="-74.28783313">
+<ele>639.000</ele>
 </trkpt>
 </trkseg>
 </trk>

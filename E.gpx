@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="42.12660619" minlon="-74.49226840" maxlat="42.63007470" maxlon="-74.02799110"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:32:27.037Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:34:33.822Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.30666119" lon="-74.17386296">
 </active_point>
 </extensions>
@@ -286,12 +286,12 @@
 <wpt lat="42.30634431" lon="-74.17380840">
 <ele>718.000</ele>
 <time>2020-12-13T12:45:59Z</time>
-<cmt>{ "parent": "ElmRidgeShelterJct" }</cmt>
+<cmt>{ "parent": "ElmRidgeShelterJct", "notOn": "LP" }</cmt>
 <desc>Sleeps 4-5, fire pit in front.</desc>
 <sym>Campground</sym>
 <type>Shelter</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-16T21:19:31.240Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:33:57.447Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ElmRidgeShelter</label_text>
 </label>
@@ -436,21 +436,23 @@
 <wpt lat="42.38515516" lon="-74.37964757">
 <ele>414.000</ele>
 <time>2020-12-12T21:26:07Z</time>
-<cmt>{ "parent": "Conesville" }</cmt>
+<cmt>{ "parent": "Conesville", "orp": true }</cmt>
 <sym>Bank</sym>
 <type>Convenience Store</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:17:49.715Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:27:02.558Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ConesvilleStore</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="42.38701632" lon="-74.37613656">
+<ele>423.000</ele>
 <time>2020-12-16T21:27:50.819Z</time>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:32:00.326Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Conesville</label_text>
 </label>
@@ -8827,6 +8829,40 @@
 </trkpt>
 <trkpt lat="42.14234599" lon="-74.07210153">
 <ele>730.098</ele>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>ELM</name>
+<desc>good,s</desc>
+<type>Line</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:34:33.822Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Elm Ridge Spur</label_text>
+</label>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<color>cb0017</color>
+<opacity>1.00</opacity>
+<width>1.1250</width>
+<pattern>Solid</pattern>
+</line>
+</extensions>
+<trkseg>
+<trkpt lat="42.30673734" lon="-74.17391393">
+<ele>719.000</ele>
+</trkpt>
+<trkpt lat="42.30663381" lon="-74.17388174">
+<ele>715.000</ele>
+</trkpt>
+<trkpt lat="42.30651436" lon="-74.17386028">
+<ele>715.000</ele>
+</trkpt>
+<trkpt lat="42.30641083" lon="-74.17384419">
+<ele>718.000</ele>
+</trkpt>
+<trkpt lat="42.30634313" lon="-74.17382273">
+<ele>714.000</ele>
 </trkpt>
 </trkseg>
 </trk>
