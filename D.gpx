@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="41.31853568" minlon="-74.66356515" maxlat="42.19169708" maxlon="-74.08253637"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T02:05:30.353Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T00:51:04.942Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="41.99379200" lon="-74.41875700">
 </active_point>
 </extensions>
@@ -1092,11 +1092,12 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </extensions>
 </wpt>
 <wpt lat="41.99493106" lon="-74.41102522">
+<ele>1065.000</ele>
 <time>2020-11-21T21:25:45.185Z</time>
 <sym>Campground</sym>
 <type>Campsite</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-21T21:28:37.111Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T00:51:04.942Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DEC3</label_text>
 </label>
@@ -1116,12 +1117,13 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </extensions>
 </wpt>
 <wpt lat="41.99403111" lon="-74.41842441">
+<ele>944.000</ele>
 <time>2020-11-21T21:28:53.767Z</time>
 <cmt>{ "notOn": "LP-PEB" }</cmt>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T02:05:19.736Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T00:51:02.011Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DEC2Spur</label_text>
 </label>
@@ -1152,48 +1154,52 @@ John Burroughs (1837-1921) was an early naturalist and nature writer who wrote o
 </extensions>
 </wpt>
 <wpt lat="41.66512911" lon="-74.40859880">
+<ele>335.000</ele>
 <time>2020-11-30T01:22:02.952Z</time>
 <desc>Small stream.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:26:36.363Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T00:50:52.187Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP206090</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="41.66470000" lon="-74.40826300">
+<ele>350.000</ele>
 <time>2020-11-30T01:23:44.926Z</time>
 <desc>Small stream.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:26:06.764Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T00:50:47.685Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP205885</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="41.60854711" lon="-74.43473861">
+<ele>270.000</ele>
 <time>2020-11-30T01:27:06.659Z</time>
 <desc>Large stream.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:34:23.611Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T00:50:43.522Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP197076</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="41.58740949" lon="-74.44653544">
+<ele>301.000</ele>
 <time>2020-11-30T01:29:27.540Z</time>
 <desc>Stream flowing to the Delaware and Hudson Canal.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-30T01:32:55.038Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T00:50:38.017Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP193982</label_text>
 </label>
