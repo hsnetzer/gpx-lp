@@ -8,8 +8,8 @@
 </copyright>
 <bounds minlat="42.12660619" minlon="-74.49226840" maxlat="42.63007470" maxlon="-74.02799110"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:34:33.822Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.30666119" lon="-74.17386296">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-26T20:29:03.563Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.56254827" lon="-74.46817026">
 </active_point>
 </extensions>
 </metadata>
@@ -239,7 +239,7 @@
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:25:58.962Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-20T01:25:58.961Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP355871</label_text>
 </label>
@@ -455,6 +455,17 @@
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-25T01:32:00.326Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Conesville</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.56277320" lon="-74.46763600">
+<time>2020-12-26T20:29:03.563Z</time>
+<desc>scrumpyewecider.com, (518) 944-1160</desc>
+<sym>Restaurant</sym>
+<type>Restaurant</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>ScrupyEweCider</label_text>
 </label>
 </extensions>
 </wpt>
