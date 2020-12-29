@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="42.12660619" minlon="-74.49226840" maxlat="42.63007470" maxlon="-74.02799110"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T00:57:21.249Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T01:06:49.875Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.56254827" lon="-74.46817026">
 </active_point>
 </extensions>
@@ -459,11 +459,13 @@
 </extensions>
 </wpt>
 <wpt lat="42.56277320" lon="-74.46763600">
+<ele>382.000</ele>
 <time>2020-12-26T20:29:03.563Z</time>
 <desc>scrumpyewecider.com, (518) 944-1160</desc>
 <sym>Restaurant</sym>
 <type>Restaurant</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T01:06:44.029Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ScrupyEweCider</label_text>
 </label>
@@ -543,12 +545,13 @@
 </extensions>
 </wpt>
 <wpt lat="42.58456214" lon="-74.38938598">
+<ele>211.000</ele>
 <time>2020-12-29T00:46:02.779Z</time>
 <desc>Hwy 30 joins Hard Scrabble Rd, Watsonville, NY.</desc>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T00:47:18.794Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T01:06:49.875Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Watsonville</label_text>
 </label>
@@ -569,13 +572,14 @@
 </extensions>
 </wpt>
 <wpt lat="42.58838148" lon="-74.35963760">
+<ele>202.000</ele>
 <time>2020-12-29T00:50:53.020Z</time>
 <cmt>{ "parent": "VromansNoseS" }</cmt>
 <desc>Fresh produce, (518) 827-5783.</desc>
 <sym>Building</sym>
 <type>Grocery Store</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T00:53:39.558Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T01:06:34.064Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BohringersFruitFarm</label_text>
 </label>
@@ -595,12 +599,13 @@
 </extensions>
 </wpt>
 <wpt lat="42.58892057" lon="-74.36176191">
+<ele>209.000</ele>
 <time>2020-12-29T00:52:47.572Z</time>
 <desc>LP leaves State Hwy 30 to climb Vromans Nose.</desc>
 <sym>Trail Head</sym>
 <type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T00:53:19.692Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T01:06:46.927Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>VromansNoseS</label_text>
 </label>
@@ -667,10 +672,11 @@
 <time>2020-12-26T17:10:55Z</time>
 <name>LP457238</name>
 <cmt>{ "hiker" : "EyhbpARQXAZKFXThyYbAVjDPOCC2" }</cmt>
+<desc>Saturdays 12:30 - 2:30, pathercreekarts.com</desc>
 <sym>Restaurant</sym>
 <type>Restaurant</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T00:55:31.776Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T01:02:40.520Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BiteMeFood</label_text>
 </label>
