@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="42.12660619" minlon="-74.49226840" maxlat="42.63007470" maxlon="-74.02799110"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T00:53:39.558Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T00:57:21.249Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.56254827" lon="-74.46817026">
 </active_point>
 </extensions>
@@ -606,12 +606,82 @@
 </label>
 </extensions>
 </wpt>
+<wpt lat="42.51163376" lon="-74.48197409">
+<ele>590.000</ele>
+<time>2020-12-26T14:08:55Z</time>
+<name>LP447372</name>
+<cmt>{
+  "hiker" : "EyhbpARQXAZKFXThyYbAVjDPOCC2"
+}</cmt>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP447372</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.53041109" lon="-74.47792310">
+<ele>520.000</ele>
+<time>2020-12-26T15:07:40Z</time>
+<name>LP450573</name>
+<cmt>{
+  "hiker" : "EyhbpARQXAZKFXThyYbAVjDPOCC2"
+}</cmt>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP450573</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.53705599" lon="-74.47899610">
+<ele>551.000</ele>
+<time>2020-12-26T15:26:11Z</time>
+<name>LP451392</name>
+<cmt>{
+  "hiker" : "EyhbpARQXAZKFXThyYbAVjDPOCC2"
+}</cmt>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP451392</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.55637822" lon="-74.49053487">
+<ele>435.000</ele>
+<time>2020-12-26T16:32:57Z</time>
+<name>LP454701</name>
+<cmt>{
+  "hiker" : "EyhbpARQXAZKFXThyYbAVjDPOCC2"
+}</cmt>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP454701</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.56432346" lon="-74.46389669">
+<ele>355.000</ele>
+<time>2020-12-26T17:10:55Z</time>
+<name>LP457238</name>
+<cmt>{ "hiker" : "EyhbpARQXAZKFXThyYbAVjDPOCC2" }</cmt>
+<sym>Restaurant</sym>
+<type>Restaurant</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T00:55:31.776Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>BiteMeFood</label_text>
+</label>
+</extensions>
+</wpt>
 <trk>
 <name>LP</name>
 <desc>bad,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T00:50:39.080Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T00:57:13.624Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Long Path</label_text>
@@ -9450,10 +9520,10 @@
 <trkpt lat="42.55514360" lon="-74.49048150">
 <ele>495.000</ele>
 </trkpt>
-<trkpt lat="42.55566640" lon="-74.49058690">
+<trkpt lat="42.55574969" lon="-74.49075856">
 <ele>473.000</ele>
 </trkpt>
-<trkpt lat="42.55624220" lon="-74.49046030">
+<trkpt lat="42.55632549" lon="-74.49063196">
 <ele>456.000</ele>
 </trkpt>
 <trkpt lat="42.55659980" lon="-74.48987270">
