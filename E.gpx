@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="42.12660619" minlon="-74.49226840" maxlat="42.63007470" maxlon="-74.02799110"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-26T20:29:03.563Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T00:01:24.685Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.56254827" lon="-74.46817026">
 </active_point>
 </extensions>
@@ -466,6 +466,50 @@
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ScrupyEweCider</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.44819116" lon="-74.46455384">
+<ele>340.000</ele>
+<time>2020-12-19T18:54:13Z</time>
+<name>LP437610</name>
+<cmt>{
+  "hiker" : "EyhbpARQXAZKFXThyYbAVjDPOCC2"
+}</cmt>
+<type>Parking</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP437610</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.42725966" lon="-74.47185936">
+<ele>350.000</ele>
+<time>2020-12-19T19:01:40Z</time>
+<name>LP434429</name>
+<cmt>{ "hiker" : "EyhbpARQXAZKFXThyYbAVjDPOCC2" }</cmt>
+<desc>Parking area off State Hwy 30.</desc>
+<sym>Parking Area</sym>
+<type>Parking</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T00:01:24.685Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP434429</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.39326952" lon="-74.44713023">
+<ele>342.000</ele>
+<time>2020-12-19T20:06:57Z</time>
+<name>LP426718</name>
+<cmt>{ "hiker" : "EyhbpARQXAZKFXThyYbAVjDPOCC2" }</cmt>
+<desc>Parking area on 990V</desc>
+<sym>Parking Area</sym>
+<type>Parking</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T00:00:56.421Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP426718</label_text>
 </label>
 </extensions>
 </wpt>
