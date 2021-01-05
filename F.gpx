@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.29 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
 <metadata>
 <desc>Bradt Hollow Road to Edinburg</desc>
 <copyright author="Harry Netzer">
@@ -8,7 +8,9 @@
 </copyright>
 <bounds minlat="42.56111760" minlon="-74.20283506" maxlat="43.21717200" maxlon="-73.93435200"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:50:05.029Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T23:20:48.588Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.60774231" lon="-74.05441706">
+</active_point>
 </extensions>
 </metadata>
 <wpt lat="42.75351737" lon="-74.14578314">
@@ -38,12 +40,160 @@
 </label>
 </extensions>
 </wpt>
+<wpt lat="42.58003066" lon="-74.12144102">
+<ele>318.000</ele>
+<time>2021-01-01T20:44:55Z</time>
+<cmt>{"hiker":"EyhbpARQXAZKFXThyYbAVjDPOCC2","parent":"GiffordHollowSpur"}</cmt>
+<desc>
+New, fire pit with griddle out front, privy to left, stream behind</desc>
+<sym>Campground</sym>
+<type>Shelter</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T23:10:12.306Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>GiffordHollowLean-To</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.57806805" lon="-74.13546031">
+<ele>391.000</ele>
+<time>2021-01-01T20:22:14Z</time>
+<name>LP510291</name>
+<cmt>{"hiker":"EyhbpARQXAZKFXThyYbAVjDPOCC2"}</cmt>
+<desc>Trail crosses stream
+</desc>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP510291</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.57153014" lon="-74.13406221">
+<ele>451.000</ele>
+<time>2021-01-01T19:29:35Z</time>
+<name>LP507877</name>
+<cmt>{"hiker":"EyhbpARQXAZKFXThyYbAVjDPOCC2"}</cmt>
+<type>Parking</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP507877</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.56172318" lon="-74.15094759">
+<ele>450.000</ele>
+<time>2021-01-01T18:49:45Z</time>
+<name>LP505221</name>
+<cmt>{"hiker":"EyhbpARQXAZKFXThyYbAVjDPOCC2"}</cmt>
+<desc>Partridge Run Parking Lot
+</desc>
+<type>Parking</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP505221</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.56351670" lon="-74.15690499">
+<ele>476.000</ele>
+<time>2021-01-01T18:37:12Z</time>
+<cmt>{"hiker":"EyhbpARQXAZKFXThyYbAVjDPOCC2"}</cmt>
+<desc>Stream under bridge</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T23:12:24.057Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>PartridgeRun</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.57965266" lon="-74.12323970">
+<time>2021-01-05T23:09:58.609Z</time>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>GiffordHollowSpur</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.58807543" lon="-74.10947187">
+<ele>437.000</ele>
+<time>2021-01-02T14:24:22Z</time>
+<name>LP515515</name>
+<cmt>{"hiker":"EyhbpARQXAZKFXThyYbAVjDPOCC2"}</cmt>
+<desc>Trail crosses stream
+</desc>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP515515</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.59684970" lon="-74.11114162">
+<ele>471.000</ele>
+<time>2021-01-02T14:58:52Z</time>
+<cmt>{"hiker":"EyhbpARQXAZKFXThyYbAVjDPOCC2"}</cmt>
+<sym>Parking Area</sym>
+<type>Parking</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T23:16:32.004Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>IrishHillRoad</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.60175127" lon="-74.04934184">
+<ele>391.000</ele>
+<time>2021-01-02T18:28:13Z</time>
+<cmt>{"hiker":"EyhbpARQXAZKFXThyYbAVjDPOCC2"}</cmt>
+<desc>Trail crosses stream</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T23:20:48.588Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>FoxCreek</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.64374554" lon="-74.01473112">
+<ele>398.000</ele>
+<time>2021-01-02T20:15:32Z</time>
+<name>LP532875</name>
+<cmt>{"hiker":"EyhbpARQXAZKFXThyYbAVjDPOCC2"}</cmt>
+<desc>Trail crosses stream
+</desc>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP532875</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="42.64499688" lon="-74.01474387">
+<ele>392.000</ele>
+<time>2021-01-02T20:17:50Z</time>
+<name>LP532944</name>
+<cmt>{"hiker":"EyhbpARQXAZKFXThyYbAVjDPOCC2"}</cmt>
+<desc>Trail crosses spring
+</desc>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LP532944</label_text>
+</label>
+</extensions>
+</wpt>
 <trk>
 <name>LP</name>
 <desc>bad,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-02-19T04:07:53.871Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T23:18:58.204Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Long Path</label_text>
@@ -449,7 +599,7 @@
 <trkpt lat="42.57947020" lon="-74.12395240">
 <ele>316.000</ele>
 </trkpt>
-<trkpt lat="42.57937350" lon="-74.12307640">
+<trkpt lat="42.57963515" lon="-74.12321587">
 <ele>316.000</ele>
 </trkpt>
 <trkpt lat="42.57854540" lon="-74.12313680">
@@ -878,29 +1028,116 @@
 <trkpt lat="42.59904240" lon="-74.04962620">
 <ele>446.000</ele>
 </trkpt>
-<trkpt lat="42.59903000" lon="-74.04704220">
+<trkpt lat="42.59903278" lon="-74.04921512">
+<ele>445.000</ele>
+</trkpt>
+<trkpt lat="42.59907241" lon="-74.04904346">
+<ele>441.000</ele>
+</trkpt>
+<trkpt lat="42.59916753" lon="-74.04882888">
+<ele>420.000</ele>
+</trkpt>
+<trkpt lat="42.59934191" lon="-74.04882888">
+<ele>420.000</ele>
+</trkpt>
+<trkpt lat="42.59951629" lon="-74.04888253">
+<ele>410.000</ele>
+</trkpt>
+<trkpt lat="42.59966689" lon="-74.04890398">
+<ele>410.000</ele>
+</trkpt>
+<trkpt lat="42.59979371" lon="-74.04894690">
 <ele>406.000</ele>
 </trkpt>
-<trkpt lat="42.59943030" lon="-74.04645100">
-<ele>399.000</ele>
+<trkpt lat="42.59997601" lon="-74.04897908">
+<ele>406.000</ele>
 </trkpt>
-<trkpt lat="42.60005400" lon="-74.04673400">
-<ele>399.000</ele>
+<trkpt lat="42.60011076" lon="-74.04902200">
+<ele>408.000</ele>
 </trkpt>
-<trkpt lat="42.60054510" lon="-74.04731160">
-<ele>399.000</ele>
+<trkpt lat="42.60029307" lon="-74.04909710">
+<ele>406.000</ele>
 </trkpt>
-<trkpt lat="42.60104700" lon="-74.04701140">
+<trkpt lat="42.60042781" lon="-74.04908637">
+<ele>406.000</ele>
+</trkpt>
+<trkpt lat="42.60058634" lon="-74.04906492">
+<ele>402.000</ele>
+</trkpt>
+<trkpt lat="42.60078449" lon="-74.04910783">
+<ele>402.000</ele>
+</trkpt>
+<trkpt lat="42.60095094" lon="-74.04911856">
 <ele>400.000</ele>
 </trkpt>
-<trkpt lat="42.60132860" lon="-74.04622690">
+<trkpt lat="42.60114117" lon="-74.04911856">
+<ele>400.000</ele>
+</trkpt>
+<trkpt lat="42.60133140" lon="-74.04911856">
+<ele>401.000</ele>
+</trkpt>
+<trkpt lat="42.60148992" lon="-74.04917220">
+<ele>399.000</ele>
+</trkpt>
+<trkpt lat="42.60160089" lon="-74.04930095">
+<ele>399.000</ele>
+</trkpt>
+<trkpt lat="42.60178319" lon="-74.04930095">
+<ele>395.000</ele>
+</trkpt>
+<trkpt lat="42.60196549" lon="-74.04929022">
+<ele>393.000</ele>
+</trkpt>
+<trkpt lat="42.60214778" lon="-74.04930095">
+<ele>393.000</ele>
+</trkpt>
+<trkpt lat="42.60228253" lon="-74.04920439">
+<ele>392.000</ele>
+</trkpt>
+<trkpt lat="42.60246482" lon="-74.04908637">
+<ele>393.000</ele>
+</trkpt>
+<trkpt lat="42.60259957" lon="-74.04898981">
+<ele>393.000</ele>
+</trkpt>
+<trkpt lat="42.60275016" lon="-74.04888253">
+<ele>395.000</ele>
+</trkpt>
+<trkpt lat="42.60287697" lon="-74.04876451">
+<ele>398.000</ele>
+</trkpt>
+<trkpt lat="42.60305134" lon="-74.04858212">
+<ele>403.000</ele>
+</trkpt>
+<trkpt lat="42.60318609" lon="-74.04852847">
+<ele>403.000</ele>
+</trkpt>
+<trkpt lat="42.60337631" lon="-74.04846410">
+<ele>404.000</ele>
+</trkpt>
+<trkpt lat="42.60340008" lon="-74.04827098">
+<ele>405.000</ele>
+</trkpt>
+<trkpt lat="42.60340801" lon="-74.04805641">
+<ele>405.000</ele>
+</trkpt>
+<trkpt lat="42.60341594" lon="-74.04783110">
+<ele>405.000</ele>
+</trkpt>
+<trkpt lat="42.60342386" lon="-74.04759507">
+<ele>405.000</ele>
+</trkpt>
+<trkpt lat="42.60343971" lon="-74.04735903">
 <ele>407.000</ele>
 </trkpt>
-<trkpt lat="42.60204660" lon="-74.04599360">
-<ele>412.000</ele>
+<trkpt lat="42.60344764" lon="-74.04713373">
+<ele>409.000</ele>
 </trkpt>
-<trkpt lat="42.60278140" lon="-74.04626290">
-<ele>411.000</ele>
+<trkpt lat="42.60345557" lon="-74.04692988">
+<ele>413.000</ele>
+</trkpt>
+<trkpt lat="42.60346349" lon="-74.04684405">
+<ele>413.000</ele>
 </trkpt>
 <trkpt lat="42.60358780" lon="-74.04632330">
 <ele>418.000</ele>
@@ -6707,6 +6944,38 @@
 <trkpt lat="43.21708400" lon="-74.10422300">
 <ele>295.000</ele>
 </trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>GHS</name>
+<desc>good,e</desc>
+<type>Line</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T23:13:42.713Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Gifford Hollow Spur</label_text>
+</label>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<color>cb0017</color>
+<opacity>1.00</opacity>
+<width>1.1250</width>
+<pattern>Solid</pattern>
+</line>
+</extensions>
+<trkseg>
+<trkpt lat="42.57964871" lon="-74.12325043"/>
+<trkpt lat="42.57966456" lon="-74.12309486"/>
+<trkpt lat="42.57968439" lon="-74.12294466"/>
+<trkpt lat="42.57970817" lon="-74.12273008"/>
+<trkpt lat="42.57972403" lon="-74.12256915"/>
+<trkpt lat="42.57973989" lon="-74.12242968"/>
+<trkpt lat="42.57974385" lon="-74.12229557"/>
+<trkpt lat="42.57977557" lon="-74.12211854"/>
+<trkpt lat="42.57980332" lon="-74.12194151"/>
+<trkpt lat="42.57981125" lon="-74.12179668"/>
+<trkpt lat="42.57984693" lon="-74.12162501"/>
+<trkpt lat="42.57990243" lon="-74.12149090"/>
+<trkpt lat="42.57999361" lon="-74.12135679"/>
 </trkseg>
 </trk>
 <extensions>
