@@ -8,8 +8,8 @@
 </copyright>
 <bounds minlat="42.56111760" minlon="-74.20283506" maxlat="43.21717200" maxlon="-73.93435200"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-10T22:20:33.773Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.60774231" lon="-74.05441706">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-10T23:53:06.929Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.57806805" lon="-74.13546031">
 </active_point>
 </extensions>
 </metadata>
@@ -6951,7 +6951,7 @@ New, fire pit with griddle out front, privy to left, stream behind</desc>
 <desc>good,e</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T23:13:42.713Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-10T23:53:06.929Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Gifford Hollow Spur</label_text>
 </label>
@@ -6963,19 +6963,45 @@ New, fire pit with griddle out front, privy to left, stream behind</desc>
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="42.57964871" lon="-74.12325043"/>
-<trkpt lat="42.57966456" lon="-74.12309486"/>
-<trkpt lat="42.57968439" lon="-74.12294466"/>
-<trkpt lat="42.57970817" lon="-74.12273008"/>
-<trkpt lat="42.57972403" lon="-74.12256915"/>
-<trkpt lat="42.57973989" lon="-74.12242968"/>
-<trkpt lat="42.57974385" lon="-74.12229557"/>
-<trkpt lat="42.57977557" lon="-74.12211854"/>
-<trkpt lat="42.57980332" lon="-74.12194151"/>
-<trkpt lat="42.57981125" lon="-74.12179668"/>
-<trkpt lat="42.57984693" lon="-74.12162501"/>
-<trkpt lat="42.57990243" lon="-74.12149090"/>
-<trkpt lat="42.57999361" lon="-74.12135679"/>
+<trkpt lat="42.57964871" lon="-74.12325043">
+<ele>317.000</ele>
+</trkpt>
+<trkpt lat="42.57966456" lon="-74.12309486">
+<ele>317.000</ele>
+</trkpt>
+<trkpt lat="42.57968439" lon="-74.12294466">
+<ele>319.000</ele>
+</trkpt>
+<trkpt lat="42.57970817" lon="-74.12273008">
+<ele>320.000</ele>
+</trkpt>
+<trkpt lat="42.57972403" lon="-74.12256915">
+<ele>320.000</ele>
+</trkpt>
+<trkpt lat="42.57973989" lon="-74.12242968">
+<ele>319.000</ele>
+</trkpt>
+<trkpt lat="42.57974385" lon="-74.12229557">
+<ele>319.000</ele>
+</trkpt>
+<trkpt lat="42.57977557" lon="-74.12211854">
+<ele>315.000</ele>
+</trkpt>
+<trkpt lat="42.57980332" lon="-74.12194151">
+<ele>314.000</ele>
+</trkpt>
+<trkpt lat="42.57981125" lon="-74.12179668">
+<ele>314.000</ele>
+</trkpt>
+<trkpt lat="42.57984693" lon="-74.12162501">
+<ele>313.000</ele>
+</trkpt>
+<trkpt lat="42.57990243" lon="-74.12149090">
+<ele>313.000</ele>
+</trkpt>
+<trkpt lat="42.57999361" lon="-74.12135679">
+<ele>311.000</ele>
+</trkpt>
 </trkseg>
 </trk>
 <extensions>
