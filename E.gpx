@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="42.12660619" minlon="-74.49226840" maxlat="42.63020188" maxlon="-74.02799110"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T23:09:34.326Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-10T21:47:48.464Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.59082580" lon="-74.36075974">
 </active_point>
 </extensions>
@@ -797,7 +797,7 @@
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T22:40:14.916Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T22:40:14.915Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LP481691</label_text>
 </label>
@@ -840,9 +840,9 @@
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T22:38:55.398Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-10T21:47:48.464Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>StonyCreek</label_text>
+<label_text>StonyCreek567</label_text>
 </label>
 </extensions>
 </wpt>
