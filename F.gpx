@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="42.56111760" minlon="-74.20283506" maxlat="43.21717200" maxlon="-73.93435200"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T23:20:48.588Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-10T22:20:33.773Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.60774231" lon="-74.05441706">
 </active_point>
 </extensions>
@@ -154,9 +154,9 @@ New, fire pit with griddle out front, privy to left, stream behind</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-05T23:20:48.588Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-10T22:20:33.773Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>FoxCreek</label_text>
+<label_text>FoxCreek391</label_text>
 </label>
 </extensions>
 </wpt>
