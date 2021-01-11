@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="42.12660619" minlon="-74.49226840" maxlat="42.63020188" maxlon="-74.02799110"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-10T21:47:48.464Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-11T01:28:05.950Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="42.59082580" lon="-74.36075974">
 </active_point>
 </extensions>
@@ -670,13 +670,12 @@
 <wpt lat="42.56432346" lon="-74.46389669">
 <ele>355.000</ele>
 <time>2020-12-26T17:10:55Z</time>
-<name>LP457238</name>
 <cmt>{ "hiker" : "EyhbpARQXAZKFXThyYbAVjDPOCC2" }</cmt>
 <desc>Saturdays 12:30 - 2:30, pathercreekarts.com</desc>
 <sym>Restaurant</sym>
 <type>Restaurant</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-12-29T01:02:40.520Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-11T01:28:05.950Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BiteMeFood</label_text>
 </label>
